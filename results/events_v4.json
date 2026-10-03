@@ -1,0 +1,4252 @@
+[
+  {
+    "district_id": "19900",
+    "district": "Corinth Water District",
+    "event_date": "2017-08-01",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "58.81",
+    "schedule_parameters": {
+      "minimum": "18.34",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          4000,
+          "13.49"
+        ],
+        [
+          5000,
+          "12.07"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "28d9dc89808ee4d3",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E001",
+    "document_date": null,
+    "service_effective_date": "2017-08-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "28d9dc89808ee4d3",
+        "pdf_page": 1,
+        "path": "sources/files/19900_tariff_8fbce623fb4c.pdf",
+        "sha256": "28d9dc89808ee4d3b34ea03180d9896014ce68ab16cf5e8d6e18f4b51d8bf14f",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Corinth%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Rates/05-15.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "19900",
+    "district": "Corinth Water District",
+    "event_date": "2020-04-29",
+    "date_basis": "order issuance date",
+    "record_type": "amending_order",
+    "case": "2020-00083",
+    "approval_date": "2020-03-30",
+    "first_billing_month": null,
+    "base_bill_4000": null,
+    "notes": "Purchased-water adjustment originally approved from March 1 is deferred to May 15, 2020 because the supplier delayed its wholesale increase.",
+    "sources": [
+      {
+        "source_id": "6b6964295d588a24",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "1aed1168bd6d1f87",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "event_id": "E002",
+    "document_date": "2020-04-29",
+    "service_effective_date": null,
+    "amends_event_id": "E003",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "source_id": "6b6964295d588a24",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00083_20200429_PSC_ORDER.pdf",
+        "sha256": "6b6964295d588a24c83b32792991a35955e7064707a191769ad611c62e38bc87",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00083/20200429_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "1aed1168bd6d1f87",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00083_20200330_PSC_ORDER.pdf",
+        "sha256": "1aed1168bd6d1f87a35329e8dc7947ea497d269fc4099a56cc6f20e133af6229",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00083/20200330_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "19900",
+    "district": "Corinth Water District",
+    "event_date": "2020-05-15",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "59.45",
+    "minimum_or_meter_charge": "18.50",
+    "included_gallons": 1000,
+    "marginal_rate_per_1000_to_4000": "13.65",
+    "case": "2020-00083",
+    "approval_date": "2020-03-30",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "bbcb04c93cc65fc8",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "1aed1168bd6d1f87",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "0.64",
+    "base_price_changed_4000": true,
+    "event_id": "E003",
+    "document_date": "2020-03-30",
+    "service_effective_date": "2020-05-15",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "bbcb04c93cc65fc8",
+        "pdf_page": 1,
+        "path": "sources/files/19900_tariff_817b21b2c243.pdf",
+        "sha256": "bbcb04c93cc65fc89f0ba89dec5101c01d32ba72a2aadf69d57b787e5aa2c9fe",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Corinth%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/05-30.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "1aed1168bd6d1f87",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00083_20200330_PSC_ORDER.pdf",
+        "sha256": "1aed1168bd6d1f87a35329e8dc7947ea497d269fc4099a56cc6f20e133af6229",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00083/20200330_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "19900",
+    "district": "Corinth Water District",
+    "event_date": "2021-05-30",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "60.09",
+    "minimum_or_meter_charge": "18.66",
+    "included_gallons": 1000,
+    "marginal_rate_per_1000_to_4000": "13.81",
+    "case": "2021-00232",
+    "approval_date": "2021-07-06",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "82923c9c4f4d4b92",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "4c537b4c59e2fd41",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "0.64",
+    "base_price_changed_4000": true,
+    "event_id": "E004",
+    "document_date": "2021-07-06",
+    "service_effective_date": "2021-05-30",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "82923c9c4f4d4b92",
+        "pdf_page": 1,
+        "path": "sources/files/19900_tariff_baa40ec5be8e.pdf",
+        "sha256": "82923c9c4f4d4b9280d2e06c1f21d8211dd306b938f0ad1a8263677fe5f53e30",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Corinth%20Water%20District/Cancelled%20Tariff%20Pages/2022/Monthly%20Water%20Rates/05-25.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "4c537b4c59e2fd41",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00232_20210706_PSC_ORDER.pdf",
+        "sha256": "4c537b4c59e2fd41eb9ab0792be4a772df363ee96ddbd1f296b5aa71debdb8fb",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00232//20210706_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "19900",
+    "district": "Corinth Water District",
+    "event_date": "2022-05-25",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "66.70",
+    "schedule_parameters": {
+      "minimum": "20.71",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          4000,
+          "15.33"
+        ],
+        [
+          5000,
+          "13.75"
+        ]
+      ]
+    },
+    "case": "2021-00425",
+    "approval_date": "2022-05-25",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "e9ab4b58bc5159a3",
+        "pdf_page": 3
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "7f1c5a2dfd7b78d6",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "6.61",
+    "base_price_changed_4000": true,
+    "event_id": "E005",
+    "document_date": "2022-05-25",
+    "service_effective_date": "2022-05-25",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "e9ab4b58bc5159a3",
+        "pdf_page": 3,
+        "path": "sources/files/19900_tariff_a4666e1e3ef0.pdf",
+        "sha256": "e9ab4b58bc5159a3b116d705ecda634d44af1f872adc460a21ea65561268d909",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Corinth%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "7f1c5a2dfd7b78d6",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00425_20220525_PSC_ORDER.pdf",
+        "sha256": "7f1c5a2dfd7b78d68baf77eceb754f439e9ded0dac939f67bd1370b9493bb79a",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00425//20220525_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "20200",
+    "district": "Cumberland Falls Highway Water District",
+    "event_date": "2015-05-07",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "47.40",
+    "schedule_parameters": {
+      "minimum": "21.18",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          null,
+          "8.74"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Use archived schedule effective 2015 and cancelled March 5 2026, not compilation refile date.",
+    "sources": [
+      {
+        "source_id": "67bac9eae2947501",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E006",
+    "document_date": null,
+    "service_effective_date": "2015-05-07",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "67bac9eae2947501",
+        "pdf_page": 1,
+        "path": "sources/files/20200_tariff_5ac107ae7e22.pdf",
+        "sha256": "67bac9eae2947501681ec61530e9c9ab2cb924bb6890aba274855b6e58a78633",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Cumberland%20Falls%20Highway%20Water%20District/Cancelled%20Tariff%20Pages/2026/Monthly%20Rates/03-05.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "21500",
+    "district": "Estill County Water District #1",
+    "event_date": "2019-11-17",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "42.64",
+    "schedule_parameters": {
+      "minimum": "21.58",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "10.53"
+        ],
+        [
+          5000,
+          "10.31"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Surcharge separate archived sheet f1097d133587c23d page 1, approved subject to refund; include in approved service charge.",
+    "sources": [
+      {
+        "source_id": "9f4189337274176e",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E007",
+    "document_date": null,
+    "service_effective_date": "2019-11-17",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "9f4189337274176e",
+        "pdf_page": 1,
+        "path": "sources/files/21500_tariff_8e162391d567.pdf",
+        "sha256": "9f4189337274176e186db93478edc2c451996b32c1204ae7db7acc9ec261c012",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Estill%20County%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/08-30.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "21500",
+    "district": "Estill County Water District #1",
+    "event_date": "2024-08-30",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "50.05",
+    "schedule_parameters": {
+      "minimum": "25.33",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "12.36"
+        ],
+        [
+          5000,
+          "12.12"
+        ]
+      ]
+    },
+    "case": "2023-00371",
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Page 3 expressly authorizes surcharge through December 31 2025, subject to compliance and refund.",
+    "sources": [
+      {
+        "source_id": "53c6b0a76460bb04",
+        "pdf_page": 2
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "c248e43b40d5e70b",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "85f6e127e3856597",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "7.41",
+    "base_price_changed_4000": true,
+    "event_id": "E008",
+    "document_date": null,
+    "service_effective_date": "2024-08-30",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "53c6b0a76460bb04",
+        "pdf_page": 2,
+        "path": "sources/files/21500_tariff_021ec0ba1780.pdf",
+        "sha256": "53c6b0a76460bb04cb1f0fdca825e73808331bb52751f8959c52cfd54ffc357e",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Estill%20County%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "c248e43b40d5e70b",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00371_20241101_PSC_ORDER.pdf",
+        "sha256": "c248e43b40d5e70b04dc246a725991fa7f6be49f0cf8d8b218d53a70a52eb324",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00371//20241101_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      },
+      {
+        "source_id": "85f6e127e3856597",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00371_20240830_PSC_ORDER.pdf",
+        "sha256": "85f6e127e3856597f6a17f4e3d0ffb42d6a6314777471ef1077de574f998b061",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00371//20240830_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22500",
+    "district": "Hardin County Water District #1",
+    "event_date": "2017-05-01",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "27.16",
+    "schedule_parameters": {
+      "minimum": "5.92",
+      "included_gallons": 0,
+      "blocks": [
+        [
+          15000,
+          "5.31"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "4f2fa1a9751b54cf",
+        "pdf_page": 2
+      }
+    ],
+    "event_id": "E009",
+    "document_date": null,
+    "service_effective_date": "2017-05-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "4f2fa1a9751b54cf",
+        "pdf_page": 2,
+        "path": "sources/files/22500_tariff_2707ae520d36.pdf",
+        "sha256": "4f2fa1a9751b54cff0f87b548d817bc5cdc35969c0661e84e727c09e47e81d1c",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hardin%20County%20Water%20District%20Number%201/Cancelled%20Tariff%20Pages/2022/Rates,%20Surcharges%20and%20Monthly%20Charges/12-01.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22500",
+    "district": "Hardin County Water District #1",
+    "event_date": "2022-12-01",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "38.36",
+    "minimum_or_meter_charge": "8.36",
+    "included_gallons": 0,
+    "marginal_rate_per_1000_to_4000": "7.50",
+    "case": "2022-00337",
+    "approval_date": "2022-11-07",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "Meter charge $8.36 verified visually on current tariff PDF p17, effective December 1, 2022. Volume rate from archived sheet. All gallons charged.",
+    "sources": [
+      {
+        "source_id": "2bc3ad98953f65b1",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "cce419dd84c2d1fe",
+        "pdf_page": 17
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "5687359688c81a2b",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "construction/financing-linked rates",
+    "change_from_preceding_documented_schedule_4000": "11.20",
+    "base_price_changed_4000": true,
+    "event_id": "E010",
+    "document_date": "2022-11-07",
+    "service_effective_date": "2022-12-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "2bc3ad98953f65b1",
+        "pdf_page": 1,
+        "path": "sources/files/22500_tariff_1d848eba9d56.pdf",
+        "sha256": "2bc3ad98953f65b10ea94d307bec374686f39897864d689ced99390daac0ee1e",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hardin%20County%20Water%20District%20Number%201/Cancelled%20Tariff%20Pages/2023/Rates,%20Surcharges,%20and%20Monthly%20Charges/10-01.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "cce419dd84c2d1fe",
+        "pdf_page": 17,
+        "path": "sources/files/22500_tariff_6f5a79c98af3.pdf",
+        "sha256": "cce419dd84c2d1fe86c3a96b8e55f5ab32b2532e7a154fc4ae07166d240edf20",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hardin%20County%20Water%20District%20Number%201/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "5687359688c81a2b",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00337_20221107_PSC_ORDER.pdf",
+        "sha256": "5687359688c81a2bf3ed6a98bfba6a9199eac76e1528415fc0ab11a847045653",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00337//20221107_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22500",
+    "district": "Hardin County Water District #1",
+    "event_date": "2023-10-01",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "38.44",
+    "minimum_or_meter_charge": "8.36",
+    "included_gallons": 0,
+    "marginal_rate_per_1000_to_4000": "7.52",
+    "case": "2023-00315",
+    "approval_date": "2023-10-26",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "Meter charge $8.36 verified visually on current tariff PDF p17, effective December 1, 2022. Volume rate from archived sheet. All gallons charged.",
+    "sources": [
+      {
+        "source_id": "57da214bfeb91a2a",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "cce419dd84c2d1fe",
+        "pdf_page": 17
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "683aea4e990c4f16",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "0.08",
+    "base_price_changed_4000": true,
+    "event_id": "E011",
+    "document_date": "2023-10-26",
+    "service_effective_date": "2023-10-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "57da214bfeb91a2a",
+        "pdf_page": 1,
+        "path": "sources/files/22500_tariff_772b36e3860c.pdf",
+        "sha256": "57da214bfeb91a2af267c47c5859761b7134a97cfa218715d006c388461ecd05",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hardin%20County%20Water%20District%20Number%201/Cancelled%20Tariff%20Pages/2024/Rates,%20Surcharges,%20and%20Monthly%20Charges/09-26.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "cce419dd84c2d1fe",
+        "pdf_page": 17,
+        "path": "sources/files/22500_tariff_6f5a79c98af3.pdf",
+        "sha256": "cce419dd84c2d1fe86c3a96b8e55f5ab32b2532e7a154fc4ae07166d240edf20",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hardin%20County%20Water%20District%20Number%201/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "683aea4e990c4f16",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00315_20231026_PSC_ORDER.pdf",
+        "sha256": "683aea4e990c4f1669c409eb0272a417df2c8a1919fbbbefae59a0da98cfc4ab",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00315//20231026_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22500",
+    "district": "Hardin County Water District #1",
+    "event_date": "2024-03-08",
+    "date_basis": "order issuance date",
+    "record_type": "amending_order",
+    "case": "2023-00315",
+    "approval_date": "2023-10-26",
+    "first_billing_month": null,
+    "base_bill_4000": null,
+    "notes": "Corrected erroneous minimum-bill description to volumetric first-15,000-gallon rate; material for proper bill calculation.",
+    "sources": [
+      {
+        "source_id": "30be4c39b5d72f1d",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "683aea4e990c4f16",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "event_id": "E012",
+    "document_date": "2024-03-08",
+    "service_effective_date": null,
+    "amends_event_id": "E011",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "source_id": "30be4c39b5d72f1d",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00315_20240308_PSC_ORDER.pdf",
+        "sha256": "30be4c39b5d72f1d7e09e19c5503a1ba26456174c4d222c92fa34cbd9ec2c7ee",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00315//20240308_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "683aea4e990c4f16",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00315_20231026_PSC_ORDER.pdf",
+        "sha256": "683aea4e990c4f1669c409eb0272a417df2c8a1919fbbbefae59a0da98cfc4ab",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00315//20231026_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22500",
+    "district": "Hardin County Water District #1",
+    "event_date": "2024-09-24",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "38.64",
+    "schedule_parameters": {
+      "minimum": "8.36",
+      "included_gallons": 0,
+      "blocks": [
+        [
+          15000,
+          "7.57"
+        ]
+      ]
+    },
+    "case": "2024-00319",
+    "approval_date": "2024-11-01",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "f10952b7ee404422",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "66a2000f65c5946c",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "0.20",
+    "base_price_changed_4000": true,
+    "event_id": "E013",
+    "document_date": "2024-11-01",
+    "service_effective_date": "2024-09-24",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "f10952b7ee404422",
+        "pdf_page": 1,
+        "path": "sources/files/22500_tariff_35cfd920aac6.pdf",
+        "sha256": "f10952b7ee40442227bc849f3d16d2c49286a89212007836074fc013f1f1bfb2",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hardin%20County%20Water%20District%20Number%201/Cancelled%20Tariff%20Pages/2025/Rates,%20Surcharges,%20and%20Monthly%20Charges/10-30.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "66a2000f65c5946c",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00319_20241101_PSC_ORDER.pdf",
+        "sha256": "66a2000f65c5946c1b5fae31d28ea820b822c8582153c45c97389c3750a6cac4",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00319//20241101_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "event_date": "2019-03-31",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "35.14",
+    "schedule_parameters": {
+      "minimum": "20.26",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "7.44"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "3590060f5a61e0e7",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E014",
+    "document_date": null,
+    "service_effective_date": "2019-03-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "3590060f5a61e0e7",
+        "pdf_page": 1,
+        "path": "sources/files/22700_tariff_fcc2d14e9958.pdf",
+        "sha256": "3590060f5a61e0e7a9eaf887d9ab72eb0f70049e29cef97bfed762f46807baab",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Henderson%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Water%20Rates/03-31.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "event_date": "2020-03-31",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "34.46",
+    "minimum_or_meter_charge": "19.92",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "7.27",
+    "case": "2020-00071",
+    "approval_date": "2020-03-27",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "c46702e3acc68fe4",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "30a38d740ecec348",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "-0.68",
+    "base_price_changed_4000": true,
+    "event_id": "E015",
+    "document_date": "2020-03-27",
+    "service_effective_date": "2020-03-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "c46702e3acc68fe4",
+        "pdf_page": 1,
+        "path": "sources/files/22700_tariff_c7ecd9801adf.pdf",
+        "sha256": "c46702e3acc68fe4ea857d1fd2138069579ec487358874d8abc4f2ec8c0f38f9",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Henderson%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Water%20Rates/11-24.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "30a38d740ecec348",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00071_20200327_PSC_ORDER.pdf",
+        "sha256": "30a38d740ecec3481c1ba09ff669142f976d9f6c6a7ed6d89cb3975f12ce596e",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00071/20200327_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "event_date": "2021-11-24",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "37.18",
+    "minimum_or_meter_charge": "21.28",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "7.95",
+    "case": "2022-00013",
+    "approval_date": "2022-02-10",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "b538874b61939257",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "e499b81e72bb6710",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "2.72",
+    "base_price_changed_4000": true,
+    "event_id": "E016",
+    "document_date": "2022-02-10",
+    "service_effective_date": "2021-11-24",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "b538874b61939257",
+        "pdf_page": 1,
+        "path": "sources/files/22700_tariff_afa6f64724c0.pdf",
+        "sha256": "b538874b61939257b77cd6188d1e1d57c0cbea6b952153828b166323ef4967bb",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Henderson%20County%20Water%20District/Cancelled%20Tariff%20Pages/2022/Monthly%20Water%20Rates/03-31.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "e499b81e72bb6710",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00013_20220210_PSC_ORDER.pdf",
+        "sha256": "e499b81e72bb6710fcc7aee5ce3c4717105ba93be43802aa5470b5108587affd",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00013//20220210_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "event_date": "2022-03-31",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "36.14",
+    "minimum_or_meter_charge": "20.76",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "7.69",
+    "case": "2022-00034",
+    "approval_date": "2022-03-16",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "2c729bdd03204847",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "96770d9cd8bd8182",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "-1.04",
+    "base_price_changed_4000": true,
+    "event_id": "E017",
+    "document_date": "2022-03-16",
+    "service_effective_date": "2022-03-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "2c729bdd03204847",
+        "pdf_page": 1,
+        "path": "sources/files/22700_tariff_fba83d3cec4c.pdf",
+        "sha256": "2c729bdd032048476a248e774618c4a0956f97d79ff860f0af66094f580aa904",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Henderson%20County%20Water%20District/Cancelled%20Tariff%20Pages/2023/Monthly%20Water%20Rates/03-31.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "96770d9cd8bd8182",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00034_20220316_PSC_ORDER.pdf",
+        "sha256": "96770d9cd8bd8182ba1081a5e0bab4c25e622b5a35931e660b445dda97e595f1",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00034//20220316_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "event_date": "2023-03-31",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "35.98",
+    "minimum_or_meter_charge": "20.68",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "7.65",
+    "case": "2023-00041",
+    "approval_date": "2023-03-02",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "Scanned rates verified visually. Typed date says March 31, 2022; PSC stamp and case 2023-00041 support March 31, 2023.",
+    "sources": [
+      {
+        "source_id": "743b60e931d85815",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "48a53633995aca67",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "-0.16",
+    "base_price_changed_4000": true,
+    "event_id": "E018",
+    "document_date": "2023-03-02",
+    "service_effective_date": "2023-03-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "743b60e931d85815",
+        "pdf_page": 1,
+        "path": "sources/files/22700_tariff_5207a0219760.pdf",
+        "sha256": "743b60e931d858157da9a28b39e06f2fcfc6a086f1ffb4d98e18143df13be134",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Henderson%20County%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Water%20Rates/01-01.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "48a53633995aca67",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00041_20230302_PSC_ORDER.pdf",
+        "sha256": "48a53633995aca6798b52b7ebcb97a497fb978ffc81748bf30b35528ec3947a3",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00041//20230302_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "event_date": "2024-01-01",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "38.69",
+    "schedule_parameters": {
+      "minimum": "22.23",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "8.23"
+        ]
+      ]
+    },
+    "case": "2023-00101",
+    "approval_date": "2023-12-13",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "December 2024 surcharge reporting form in 2023-00333 confirms continued billings.",
+    "sources": [
+      {
+        "source_id": "a968f3681343b983",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "5977eb0c8428af2c",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "2.71",
+    "base_price_changed_4000": true,
+    "event_id": "E019",
+    "document_date": "2023-12-13",
+    "service_effective_date": "2024-01-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "a968f3681343b983",
+        "pdf_page": 1,
+        "path": "sources/files/22700_tariff_d6b567592029.pdf",
+        "sha256": "a968f3681343b9839d318ebbcc4e1df010ae0492e6a688490380edcb421fb8cd",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Henderson%20County%20Water%20District/Cancelled%20Tariff%20Pages/2025/Monthly%20Water%20Rates/05-01.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "5977eb0c8428af2c",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00101_20231213_PSC_ORDER.pdf",
+        "sha256": "5977eb0c8428af2c07d6bbf08e0222e68944f170d7a411fb0e5ffb2df5175cac",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00101//20231213_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "23300",
+    "district": "Hyden-Leslie County Water District",
+    "event_date": "2010-10-29",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "31.48",
+    "schedule_parameters": {
+      "minimum": "20.24",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "5.62"
+        ],
+        [
+          5000,
+          "4.45"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "704073ed974e83f6",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E020",
+    "document_date": null,
+    "service_effective_date": "2010-10-29",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "704073ed974e83f6",
+        "pdf_page": 1,
+        "path": "sources/files/23300_tariff_11dd55dc2e35.pdf",
+        "sha256": "704073ed974e83f6bd9a9c2e9abe2b715f682fb3371e6c82538e60d5d6b610ec",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hyden-Leslie%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Rates%20and%20Charges/11-06.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "23300",
+    "district": "Hyden-Leslie County Water District",
+    "event_date": "2020-11-06",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "43.08",
+    "minimum_or_meter_charge": "23.44",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "9.82",
+    "case": "2020-00141",
+    "approval_date": "2020-11-06",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "f81817493d9df736",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "676269dc4e2c0d9f",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "11.60",
+    "base_price_changed_4000": true,
+    "event_id": "E021",
+    "document_date": "2020-11-06",
+    "service_effective_date": "2020-11-06",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "f81817493d9df736",
+        "pdf_page": 1,
+        "path": "sources/files/23300_tariff_79a3cdad5dd0.pdf",
+        "sha256": "f81817493d9df736779a3d4451081c17ee2a171b743094d64231c96ebb9f46dc",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hyden-Leslie%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/08-04.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "676269dc4e2c0d9f",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00141_20201106_PSC_ORDER.pdf",
+        "sha256": "676269dc4e2c0d9f6df59c928be4b8d79c840438e48daa9b5a4f7a124c9b1d6a",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00141//20201106_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "23300",
+    "district": "Hyden-Leslie County Water District",
+    "event_date": "2021-11-06",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "54.74",
+    "minimum_or_meter_charge": "29.78",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "12.48",
+    "case": "2020-00141",
+    "approval_date": "2020-11-06",
+    "first_billing_month": null,
+    "evidence_status": "authorized phase date; contradictory later tariff; billing unverified",
+    "notes": "Original November 6, 2020 order Appendix B states one year after order. Later tariff 571b91085a262b32 says November 6, 2022. Preserve conflict; no asserted first billing month.",
+    "sources": [
+      {
+        "source_id": "f81817493d9df736",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "25ac9636f932ae8d",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "676269dc4e2c0d9f",
+        "pdf_page": 32
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "676269dc4e2c0d9f",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "11.66",
+    "base_price_changed_4000": true,
+    "event_id": "E022",
+    "document_date": "2020-11-06",
+    "service_effective_date": "2021-11-06",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "f81817493d9df736",
+        "pdf_page": 1,
+        "path": "sources/files/23300_tariff_79a3cdad5dd0.pdf",
+        "sha256": "f81817493d9df736779a3d4451081c17ee2a171b743094d64231c96ebb9f46dc",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hyden-Leslie%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/08-04.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "25ac9636f932ae8d",
+        "pdf_page": 1,
+        "path": "sources/files/23300_tariff_0f9dd2a0e7ed.pdf",
+        "sha256": "25ac9636f932ae8d14271411a7b1c19533b747959b12d00fd339a5e956835bb7",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hyden-Leslie%20County%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/08-06.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "676269dc4e2c0d9f",
+        "pdf_page": 32,
+        "path": "sources/files/2020-00141_20201106_PSC_ORDER.pdf",
+        "sha256": "676269dc4e2c0d9f6df59c928be4b8d79c840438e48daa9b5a4f7a124c9b1d6a",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00141//20201106_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "676269dc4e2c0d9f",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00141_20201106_PSC_ORDER.pdf",
+        "sha256": "676269dc4e2c0d9f6df59c928be4b8d79c840438e48daa9b5a4f7a124c9b1d6a",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00141//20201106_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "23300",
+    "district": "Hyden-Leslie County Water District",
+    "event_date": "2024-08-06",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "58.81",
+    "schedule_parameters": {
+      "minimum": "32.01",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "13.40"
+        ],
+        [
+          20000,
+          "11.72"
+        ]
+      ]
+    },
+    "case": "2024-00022",
+    "approval_date": "2024-08-06",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "2025-01-16 order in 2020-00340 confirms surcharge discontinued November 2024.",
+    "sources": [
+      {
+        "source_id": "8f785621ca22c8a8",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "a952e31d8524138b",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "4.07",
+    "base_price_changed_4000": true,
+    "event_id": "E023",
+    "document_date": "2024-08-06",
+    "service_effective_date": "2024-08-06",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "8f785621ca22c8a8",
+        "pdf_page": 1,
+        "path": "sources/files/23300_tariff_937970da91da.pdf",
+        "sha256": "8f785621ca22c8a8335caf475253e7897b47aca4ebc9e0cf9f8cc22ff4fbea3f",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Hyden-Leslie%20County%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "a952e31d8524138b",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00022_20240806_PSC_ORDER.pdf",
+        "sha256": "a952e31d8524138b56f659cb75226c0ba460f4628d2db7c5d4e3218b072f2fbd",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00022//20240806_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "23300",
+    "district": "Hyden-Leslie County Water District",
+    "event_date": "2024-11-01",
+    "date_basis": "order issuance date",
+    "record_type": "amending_order",
+    "case": "2024-00022",
+    "approval_date": "2024-08-06",
+    "first_billing_month": null,
+    "base_bill_4000": null,
+    "notes": "Corrects conflict between August 20, 2024 operative paragraph and August 6 appendix; authorized effective date becomes August 6, 2024. Does not independently establish actual invoice treatment.",
+    "sources": [
+      {
+        "source_id": "faec95ca826e1b74",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "a952e31d8524138b",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "event_id": "E024",
+    "document_date": "2024-11-01",
+    "service_effective_date": null,
+    "amends_event_id": "E023",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "source_id": "faec95ca826e1b74",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00022_20241101_PSC_ORDER.pdf",
+        "sha256": "faec95ca826e1b744530fe8266c35d046384975a655bf718d89a1db7d917f7de",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00022//20241101_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "a952e31d8524138b",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00022_20240806_PSC_ORDER.pdf",
+        "sha256": "a952e31d8524138b56f659cb75226c0ba460f4628d2db7c5d4e3218b072f2fbd",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00022//20240806_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "24100",
+    "district": "Laurel County Water District #2",
+    "event_date": "2016-03-14",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "25.08",
+    "schedule_parameters": {
+      "minimum": "11.10",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          99000,
+          "4.66"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Corrupt PDF text resolved by OCR and visual verification.",
+    "sources": [
+      {
+        "source_id": "5c287133ce3db4f8",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E025",
+    "document_date": null,
+    "service_effective_date": "2016-03-14",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "5c287133ce3db4f8",
+        "pdf_page": 1,
+        "path": "sources/files/24100_tariff_04c6fe9f8521.pdf",
+        "sha256": "5c287133ce3db4f828a49e6ce978447579f774c08e88231e7fd93a6fbbb7c82f",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Laurel%20County%20Water%20District%20Number%202/Cancelled%20Tariff%20Pages/2020/Monthly%20Water%20Rates/04-08.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "24100",
+    "district": "Laurel County Water District #2",
+    "event_date": "2020-04-08",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "32.58",
+    "schedule_parameters": {
+      "minimum": "15.00",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          99000,
+          "5.86"
+        ]
+      ]
+    },
+    "case": "2020-00079",
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "a72986165aaedde5",
+        "pdf_page": 26
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "e65e9eeb6879f4bf",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "061b1ed8bf6f1840",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "construction/financing-linked rates",
+    "change_from_preceding_documented_schedule_4000": "7.50",
+    "base_price_changed_4000": true,
+    "event_id": "E026",
+    "document_date": null,
+    "service_effective_date": "2020-04-08",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "a72986165aaedde5",
+        "pdf_page": 26,
+        "path": "sources/files/24100_tariff_9c721271ce7a.pdf",
+        "sha256": "a72986165aaedde5e78b0e17329cef0dff5d06a1f56349742f507f46c372fa14",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Laurel%20County%20Water%20District%20Number%202/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "e65e9eeb6879f4bf",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00079_20210225_PSC_ORDER.pdf",
+        "sha256": "e65e9eeb6879f4bf72ae20607c69b20a239c7566c535ad5b402a4921d2539e65",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00079//20210225_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      },
+      {
+        "source_id": "061b1ed8bf6f1840",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00079_20200408_PSC_ORDER.pdf",
+        "sha256": "061b1ed8bf6f184025f659b79e312e9e606b9fa0f48f006eaed70b8800d0be8b",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00079//20200408_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "24500",
+    "district": "Lyon County Water District",
+    "event_date": "2016-01-07",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "46.24",
+    "schedule_parameters": {
+      "minimum": "25.00",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "10.62"
+        ],
+        [
+          5000,
+          "7.50"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Tariff scan ambiguous. Commission order 2015-00376 dated January 7 2016 Appendix confirms 25.00, not OCR 25.06.",
+    "sources": [
+      {
+        "source_id": "52582ea2c9fb6711",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E027",
+    "document_date": null,
+    "service_effective_date": "2016-01-07",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "52582ea2c9fb6711",
+        "pdf_page": 1,
+        "path": "sources/files/24500_tariff_3e2ef36d6243.pdf",
+        "sha256": "52582ea2c9fb6711306142125175e503eab618893ab1f646e12850842a389c79",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Lyon%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/06-01.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "24500",
+    "district": "Lyon County Water District",
+    "event_date": "2021-06-01",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "47.76",
+    "minimum_or_meter_charge": "25.76",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "11.00",
+    "case": "2021-00195",
+    "approval_date": "2021-06-04",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "e73b3af67e177a9a",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "973a04c2e795b189",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "1.52",
+    "base_price_changed_4000": true,
+    "event_id": "E028",
+    "document_date": "2021-06-04",
+    "service_effective_date": "2021-06-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "e73b3af67e177a9a",
+        "pdf_page": 1,
+        "path": "sources/files/24500_tariff_c0ad4ba2ea13.pdf",
+        "sha256": "e73b3af67e177a9ae88436dc91791daf6bd16ee6fe73a293c74ab50a2bcc9e44",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Lyon%20County%20Water%20District/Cancelled%20Tariff%20Pages/2022/Monthly%20Water%20Rates/05-13.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "973a04c2e795b189",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00195_20210604_PSC_ORDER.pdf",
+        "sha256": "973a04c2e795b189536cfacf7ea9c3eb99579681f7d245b13ee9915de2656ad0",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00195//20210604_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "24500",
+    "district": "Lyon County Water District",
+    "event_date": "2022-05-13",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "50.98",
+    "minimum_or_meter_charge": "27.50",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "11.74",
+    "case": "2021-00391",
+    "approval_date": "2022-05-13",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "36062e28c4b074d6",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "1602cb6f6a2ec9f1",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "3.22",
+    "base_price_changed_4000": true,
+    "event_id": "E029",
+    "document_date": "2022-05-13",
+    "service_effective_date": "2022-05-13",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "36062e28c4b074d6",
+        "pdf_page": 1,
+        "path": "sources/files/24500_tariff_7c6d0f7a01eb.pdf",
+        "sha256": "36062e28c4b074d60ca5d7f466b19ee677881cd064a74c47d2eedd9d0468da86",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Lyon%20County%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates%20%26%20NRCs/09-09.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "1602cb6f6a2ec9f1",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00391_20220513_PSC_ORDER.pdf",
+        "sha256": "1602cb6f6a2ec9f14061c4ddc110ccfffbca9386c879d9d72716ae36952f7205",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00391//20220513_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "24500",
+    "district": "Lyon County Water District",
+    "event_date": "2024-09-09",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "57.45",
+    "schedule_parameters": {
+      "minimum": "30.99",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "13.23"
+        ],
+        [
+          5000,
+          "9.48"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "2022 schedule cancelled September 9 2024; archived 2024 schedule used.",
+    "sources": [
+      {
+        "source_id": "357dce4f86a1d3dc",
+        "pdf_page": 1
+      }
+    ],
+    "change_from_preceding_documented_schedule_4000": "6.47",
+    "base_price_changed_4000": true,
+    "event_id": "E030",
+    "document_date": null,
+    "service_effective_date": "2024-09-09",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "357dce4f86a1d3dc",
+        "pdf_page": 1,
+        "path": "sources/files/24500_tariff_f8966411cd4e.pdf",
+        "sha256": "357dce4f86a1d3dcac958e990c3585267c7de95e1e17662e78136575d2a33854",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Lyon%20County%20Water%20District/Cancelled%20Tariff%20Pages/2025/Monthly%20Water%20Rates/08-01.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2017-10-10",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "39.71",
+    "schedule_parameters": {
+      "minimum": "23.35",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "8.18"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "292063e951c4f2c5",
+        "pdf_page": 3
+      }
+    ],
+    "event_id": "E031",
+    "document_date": null,
+    "service_effective_date": "2017-10-10",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "292063e951c4f2c5",
+        "pdf_page": 3,
+        "path": "sources/files/25605_tariff_451340cc55ad.pdf",
+        "sha256": "292063e951c4f2c5ecbc9981676ac34f96fdb6cec34babcd4c919f0fba2b375b",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Mountain%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Water%20Rates/02-28.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2020-02-28",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "40.87",
+    "minimum_or_meter_charge": "23.93",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "8.47",
+    "case": "2020-00068",
+    "approval_date": "2020-04-02",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "946a790b65fe9ddb",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "ffaf7c17008f1a58",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "1.16",
+    "base_price_changed_4000": true,
+    "event_id": "E032",
+    "document_date": "2020-04-02",
+    "service_effective_date": "2020-02-28",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "946a790b65fe9ddb",
+        "pdf_page": 1,
+        "path": "sources/files/25605_tariff_3b79ccc13c26.pdf",
+        "sha256": "946a790b65fe9ddb5b44a16e38d9393bf385094596c00bb566436ef6fa102269",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Mountain%20Water%20District/Cancelled%20Tariff%20Pages/2022/Monthly%20Water%20Rates/12-11.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "ffaf7c17008f1a58",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00068_20200402_PSC_ORDER.pdf",
+        "sha256": "ffaf7c17008f1a582b9986464b723d8a75e55af8da3e72c78d51c9aa101add96",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00068//20200402_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2022-12-11",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "41.19",
+    "minimum_or_meter_charge": "24.09",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "8.55",
+    "case": "2022-00423",
+    "approval_date": "2023-01-12",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "8e419dc6335ae7fc",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "8249a70059e6bfe3",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "0.32",
+    "base_price_changed_4000": true,
+    "event_id": "E033",
+    "document_date": "2023-01-12",
+    "service_effective_date": "2022-12-11",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "8e419dc6335ae7fc",
+        "pdf_page": 1,
+        "path": "sources/files/25605_tariff_96ac1e1fc5d5.pdf",
+        "sha256": "8e419dc6335ae7fc1556d85c9bfa38ed9f0c173f11334f3e9124f8a7d15d416e",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Mountain%20Water%20District/Cancelled%20Tariff%20Pages/2023/Monthly%20Water%20Rates/10-31.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "8249a70059e6bfe3",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00423_20230112_PSC_ORDER.pdf",
+        "sha256": "8249a70059e6bfe3e6bd06412ac87e514ad3cc85ebb608f7866ca0f22eb7c8f6",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00423//20230112_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2023-10-31",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "54.91",
+    "schedule_parameters": {
+      "minimum": "8.99",
+      "included_gallons": 0,
+      "blocks": [
+        [
+          null,
+          "11.48"
+        ]
+      ]
+    },
+    "case": "2022-00366",
+    "approval_date": "2023-10-31",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "January 26, 2025 cover letter in 2023-00351 confirms December 2024 surcharge reporting; actual billing began mid-January 2024. Retrospectively corrected price; do not treat as an observed October 2023 invoice. See February 23, 2024 order.",
+    "sources": [
+      {
+        "source_id": "8b991cbcf6fa500a",
+        "pdf_page": 2
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "cbdfac01aa45eb5c",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "13.72",
+    "base_price_changed_4000": true,
+    "event_id": "E034",
+    "document_date": "2024-02-23",
+    "service_effective_date": "2023-10-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "date_qualification": "Final corrected rate authorized Feb 23, 2024 relates back to Oct 31, 2023. Legacy approval_date identifies original proceeding order, not approval of final numerical rate.",
+    "resolved_sources": [
+      {
+        "source_id": "8b991cbcf6fa500a",
+        "pdf_page": 2,
+        "path": "sources/files/25605_tariff_5221e9ce783f.pdf",
+        "sha256": "8b991cbcf6fa500a32e0522dd80115ce76c737a0b161719cb23add8c5fc445e6",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Mountain%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "cbdfac01aa45eb5c",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00366_20231031_PSC_ORDER.pdf",
+        "sha256": "cbdfac01aa45eb5ca8bceea8ef219d3ff3750ec11ef95099afc35f9f5e2830db",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20231031_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2023-11-29",
+    "date_basis": "order issuance date",
+    "record_type": "amending_order",
+    "case": "2022-00366",
+    "approval_date": "2023-10-31",
+    "first_billing_month": null,
+    "base_bill_4000": null,
+    "notes": "Phase-in removed; full $8.99 plus $0.01114/gallon authorized back to October 31, 2023. At 4,000 gallons base $53.55. Surcharge cap also corrected.",
+    "sources": [
+      {
+        "source_id": "02cd7361bedd5f35",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "02cd7361bedd5f35",
+        "pdf_page": 3
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "cbdfac01aa45eb5c",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "event_id": "E035",
+    "document_date": "2023-11-29",
+    "service_effective_date": null,
+    "amends_event_id": "E034",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "source_id": "02cd7361bedd5f35",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00366_20231129_PSC_ORDER.pdf",
+        "sha256": "02cd7361bedd5f35b9ed88cf2eb6bdb479796e90f533bafd8adb6a0f5acc74b2",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20231129_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "02cd7361bedd5f35",
+        "pdf_page": 3,
+        "path": "sources/files/2022-00366_20231129_PSC_ORDER.pdf",
+        "sha256": "02cd7361bedd5f35b9ed88cf2eb6bdb479796e90f533bafd8adb6a0f5acc74b2",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20231129_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "cbdfac01aa45eb5c",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00366_20231031_PSC_ORDER.pdf",
+        "sha256": "cbdfac01aa45eb5ca8bceea8ef219d3ff3750ec11ef95099afc35f9f5e2830db",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20231031_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2024-02-23",
+    "date_basis": "order issuance date",
+    "record_type": "amending_order",
+    "case": "2022-00366",
+    "approval_date": "2023-10-31",
+    "first_billing_month": null,
+    "base_bill_4000": null,
+    "notes": "February 23, 2024 order: retail rate 0.01148/gallon; corrected approved benchmark base 54.91. Printed p.3 describes retail recovery in four months and wholesale refunds in two; ordering paragraph 5 on p.4 specifies four months for retail and wholesale reconciliation. Actual wholesale implementation period unresolved.",
+    "sources": [
+      {
+        "source_id": "ec05ba3d4997836f",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "ec05ba3d4997836f",
+        "pdf_page": 3
+      },
+      {
+        "source_id": "ec05ba3d4997836f",
+        "pdf_page": 4
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "cbdfac01aa45eb5c",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "event_id": "E036",
+    "prior_notes": "Retail rate corrected to $0.01148/gallon, relating back to October 31, 2023; retail undercollections over four months and wholesale refunds over two months. Base $54.91 at 4,000 gallons.",
+    "assessment_conflict_status": "unresolved; original record preserved in inputs",
+    "document_date": "2024-02-23",
+    "service_effective_date": null,
+    "amends_event_id": "E034",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "source_id": "ec05ba3d4997836f",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00366_20240223_PSC_ORDER.pdf",
+        "sha256": "ec05ba3d4997836f323a0b4d4477b5ba5e14dfc777a5264b1ab3caae215687f1",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20240223_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "ec05ba3d4997836f",
+        "pdf_page": 3,
+        "path": "sources/files/2022-00366_20240223_PSC_ORDER.pdf",
+        "sha256": "ec05ba3d4997836f323a0b4d4477b5ba5e14dfc777a5264b1ab3caae215687f1",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20240223_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "ec05ba3d4997836f",
+        "pdf_page": 4,
+        "path": "sources/files/2022-00366_20240223_PSC_ORDER.pdf",
+        "sha256": "ec05ba3d4997836f323a0b4d4477b5ba5e14dfc777a5264b1ab3caae215687f1",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20240223_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "cbdfac01aa45eb5c",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00366_20231031_PSC_ORDER.pdf",
+        "sha256": "cbdfac01aa45eb5ca8bceea8ef219d3ff3750ec11ef95099afc35f9f5e2830db",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00366//20231031_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26000",
+    "district": "Muhlenberg County Water District #3",
+    "event_date": "2019-11-19",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "39.67",
+    "schedule_parameters": {
+      "minimum": "24.15",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "7.76"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "OCR of archived sheet reviewed. Issue/order one-day difference does not affect December endpoint.",
+    "sources": [
+      {
+        "source_id": "7106fe7e315c1c72",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E037",
+    "document_date": null,
+    "service_effective_date": "2019-11-19",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "7106fe7e315c1c72",
+        "pdf_page": 1,
+        "path": "sources/files/26000_tariff_7435ff2a6a20.pdf",
+        "sha256": "7106fe7e315c1c72a5d300c305148a4bc3537a35106678536d323218a2961b49",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Muhlenberg%20County%20Water%20District%20Number%203/Cancelled%20Tariff%20Pages/2022/Monthly%20Water%20Rates/08-31.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26000",
+    "district": "Muhlenberg County Water District #3",
+    "event_date": "2022-08-31",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "42.15",
+    "minimum_or_meter_charge": "25.39",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "8.38",
+    "case": "2022-00231",
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "4955713a6f3268b2",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "unclassified",
+    "change_from_preceding_documented_schedule_4000": "2.48",
+    "base_price_changed_4000": true,
+    "event_id": "E038",
+    "document_date": null,
+    "service_effective_date": "2022-08-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "4955713a6f3268b2",
+        "pdf_page": 1,
+        "path": "sources/files/26000_tariff_cd43455b8654.pdf",
+        "sha256": "4955713a6f3268b2275989e8ce59ced08ee6411fd913e7ca3ee95600e1f2f198",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Muhlenberg%20County%20Water%20District%20Number%203/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/08-01.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26000",
+    "district": "Muhlenberg County Water District #3",
+    "event_date": "2024-08-01",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "superseded_schedule",
+    "base_bill_4000": "49.63",
+    "schedule_parameters": {
+      "minimum": "29.91",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "9.86"
+        ]
+      ]
+    },
+    "case": "2023-00400",
+    "approval_date": "2024-08-01",
+    "first_billing_month": null,
+    "evidence_status": "Superseded on the same effective date by 2024-00212; not valid at final endpoint",
+    "notes": "Retained as intermediate authorization for source transparency; not evidence of an observed invoice. Superseded by V2_MUHLENBERG_PWA.",
+    "sources": [
+      {
+        "source_id": "aed34f44cbb4bcf1",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "7b2a282d29430b6a",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "7.48",
+    "base_price_changed_4000": true,
+    "event_id": "E039",
+    "document_date": "2024-08-01",
+    "service_effective_date": "2024-08-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": "V2_MUHLENBERG_PWA",
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "superseded same-effective-date approval",
+    "resolved_sources": [
+      {
+        "source_id": "aed34f44cbb4bcf1",
+        "pdf_page": 1,
+        "path": "sources/files/26000_tariff_9b9d30fb3ff6.pdf",
+        "sha256": "aed34f44cbb4bcf13afa7652b4b35e1d29c39dbae08a097fd1b855cd94c12c01",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Muhlenberg%20County%20Water%20District%20Number%203/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/08-01%20%282%29.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "7b2a282d29430b6a",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00400_20240801_PSC_ORDER.pdf",
+        "sha256": "7b2a282d29430b6a4c153d17f5c98d199b860a7f4fcbc56a38ea1ecbabf82d41",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00400//20240801_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26400",
+    "district": "Nebo Water District",
+    "event_date": "2019-03-31",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "42.29",
+    "schedule_parameters": {
+      "minimum": "23.15",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          2000,
+          "9.57"
+        ],
+        [
+          6000,
+          "9.07"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "3073392e7308e4e8",
+        "pdf_page": 3
+      }
+    ],
+    "event_id": "E040",
+    "document_date": null,
+    "service_effective_date": "2019-03-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "3073392e7308e4e8",
+        "pdf_page": 3,
+        "path": "sources/files/26400_tariff_10cd243897f6.pdf",
+        "sha256": "3073392e7308e4e867cbd7185cbd121faefcd10db7356f390508a216c837fd27",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Nebo%20Water%20District/Cancelled%20Tariff%20Pages/2024/Whole%20Tariff/01-11.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26400",
+    "district": "Nebo Water District",
+    "event_date": "2024-01-11",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "42.29",
+    "minimum_or_meter_charge": "23.15",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "9.57",
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "96e1d03c9a4feedc",
+        "pdf_page": 1
+      }
+    ],
+    "change_from_preceding_documented_schedule_4000": "0.00",
+    "base_price_changed_4000": false,
+    "event_id": "E041",
+    "document_date": null,
+    "service_effective_date": "2024-01-11",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "96e1d03c9a4feedc",
+        "pdf_page": 1,
+        "path": "sources/files/26400_tariff_a2127cab6fbd.pdf",
+        "sha256": "96e1d03c9a4feedc42cd11a4dc0f18031e4b4f19dbec291588272ade29e78f44",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Nebo%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/04-18.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26400",
+    "district": "Nebo Water District",
+    "event_date": "2024-04-18",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "49.40",
+    "minimum_or_meter_charge": "28.40",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "10.50",
+    "case": "2024-00062",
+    "approval_date": "2024-04-18",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "011a6d91bbd08d29",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "03ef064c09b24699",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "construction/financing-linked rates",
+    "change_from_preceding_documented_schedule_4000": "7.11",
+    "base_price_changed_4000": true,
+    "event_id": "E042",
+    "document_date": "2024-04-18",
+    "service_effective_date": "2024-04-18",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "011a6d91bbd08d29",
+        "pdf_page": 1,
+        "path": "sources/files/26400_tariff_5b74b19795c4.pdf",
+        "sha256": "011a6d91bbd08d29598d20f2458f7ea57e66dd0636fae2c68c7c73cd6b85bc9e",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Nebo%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/04-25.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "03ef064c09b24699",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00062_20240418_PSC_ORDER.pdf",
+        "sha256": "03ef064c09b246991de7425b9e9208e3381a33e81fb1314c0b5e5dfa5ad6736a",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00062//20240418_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26400",
+    "district": "Nebo Water District",
+    "event_date": "2024-04-25",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "51.56",
+    "minimum_or_meter_charge": "29.48",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "11.04",
+    "case": "2024-00120",
+    "approval_date": "2024-06-06",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "c382b5803e3c9f15",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "b43b7f78c4fd9ee1",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "2.16",
+    "base_price_changed_4000": true,
+    "event_id": "E043",
+    "document_date": "2024-06-06",
+    "service_effective_date": "2024-04-25",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "c382b5803e3c9f15",
+        "pdf_page": 1,
+        "path": "sources/files/26400_tariff_db7caa46a49b.pdf",
+        "sha256": "c382b5803e3c9f159fa711f662926e1b90b555b97f6f6b5ebbe32804634e40d9",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Nebo%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/08-02.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "b43b7f78c4fd9ee1",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00120_20240606_PSC_ORDER.pdf",
+        "sha256": "b43b7f78c4fd9ee13de2ed9fbbd0d84067de1dd240cb6d62d8b48a5c7fc6f7d0",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00120//20240606_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26400",
+    "district": "Nebo Water District",
+    "event_date": "2024-08-02",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "54.41",
+    "schedule_parameters": {
+      "minimum": "31.11",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          2000,
+          "11.65"
+        ],
+        [
+          6000,
+          "11.12"
+        ]
+      ]
+    },
+    "case": "2024-00002",
+    "approval_date": "2024-08-02",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "037922d448602793",
+        "pdf_page": 5
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "5d40891d1d98aba3",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "2.85",
+    "base_price_changed_4000": true,
+    "event_id": "E044",
+    "document_date": "2024-08-02",
+    "service_effective_date": "2024-08-02",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "037922d448602793",
+        "pdf_page": 5,
+        "path": "sources/files/26400_tariff_20676a43c5d4.pdf",
+        "sha256": "037922d448602793fcbe1c424f5e704c36e0919265212f89ec4c9487a5842e9f",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Nebo%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "5d40891d1d98aba3",
+        "pdf_page": 1,
+        "path": "sources/files/2024-00002_20240802_PSC_ORDER.pdf",
+        "sha256": "5d40891d1d98aba3b71b3272dec807d29feeaea8ff175d7a57c3a7ad76677638",
+        "url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00002//20240802_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26900",
+    "district": "North McLean County Water District",
+    "event_date": "2019-02-10",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "31.68",
+    "schedule_parameters": {
+      "minimum": "18.36",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "6.66"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "332e2880483a0c2f",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E045",
+    "document_date": null,
+    "service_effective_date": "2019-02-10",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "332e2880483a0c2f",
+        "pdf_page": 1,
+        "path": "sources/files/26900_tariff_3981c9f54088.pdf",
+        "sha256": "332e2880483a0c2f746d53e13e5161994f4c43338bbbb3a7fa5a8c2f861695d0",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20McLean%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Rates/06-01.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26900",
+    "district": "North McLean County Water District",
+    "event_date": "2020-06-01",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "31.84",
+    "minimum_or_meter_charge": "18.44",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "6.70",
+    "case": "2020-00168",
+    "approval_date": "2020-06-10",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "Scanned rates verified visually. Cancellation stamp says October 1, 2010, inconsistent with 2020 issuance; do not use cancellation stamp as date.",
+    "sources": [
+      {
+        "source_id": "ce1d082735b3fa43",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "d3d1c85f87819c5b",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "0.16",
+    "base_price_changed_4000": true,
+    "event_id": "E046",
+    "document_date": "2020-06-10",
+    "service_effective_date": "2020-06-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "ce1d082735b3fa43",
+        "pdf_page": 1,
+        "path": "sources/files/26900_tariff_fd59a812ea50.pdf",
+        "sha256": "ce1d082735b3fa43d2924b2acff6d476a977d924f8d8f5974dbc6353a6038722",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20McLean%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Rates/10-01.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "d3d1c85f87819c5b",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00168_20200610_PSC_ORDER.pdf",
+        "sha256": "d3d1c85f87819c5b3e133fc357ff52293033ebd2415aef3b0fda818b752dee7b",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00168//20200610_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26900",
+    "district": "North McLean County Water District",
+    "event_date": "2020-10-01",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "34.28",
+    "minimum_or_meter_charge": "19.66",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "7.31",
+    "case": "2020-00320",
+    "approval_date": "2020-10-21",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "f940ecdc93f18afc",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "087abb71203162f9",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "2.44",
+    "base_price_changed_4000": true,
+    "event_id": "E047",
+    "document_date": "2020-10-21",
+    "service_effective_date": "2020-10-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "f940ecdc93f18afc",
+        "pdf_page": 1,
+        "path": "sources/files/26900_tariff_2267c536beff.pdf",
+        "sha256": "f940ecdc93f18afc51015ee82c79c7913dcc07021e38c0853b55ad726ebd32a3",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20McLean%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/01-27.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "087abb71203162f9",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00320_20201021_PSC_ORDER.pdf",
+        "sha256": "087abb71203162f974b7de9c53b86f582561aafd6f130ac144fcc9234c524fe6",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00320//20201021_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26900",
+    "district": "North McLean County Water District",
+    "event_date": "2021-01-27",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "39.97",
+    "minimum_or_meter_charge": "22.93",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "8.52",
+    "case": "2020-00238",
+    "approval_date": "2021-01-27",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "fd834904bf155ae1",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "94799545ccf6e72e",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "5.69",
+    "base_price_changed_4000": true,
+    "event_id": "E048",
+    "document_date": "2021-01-27",
+    "service_effective_date": "2021-01-27",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "fd834904bf155ae1",
+        "pdf_page": 1,
+        "path": "sources/files/26900_tariff_8391fcc617a7.pdf",
+        "sha256": "fd834904bf155ae12de2399e72012c398330aa36845c51111af03bf312302ee3",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20McLean%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/02-25.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "94799545ccf6e72e",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00238_20210127_PSC_ORDER.pdf",
+        "sha256": "94799545ccf6e72e46c7281b809de01b664a6719992c8446c1ce241256d2de02",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00238//20210127_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26900",
+    "district": "North McLean County Water District",
+    "event_date": "2021-02-25",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "40.09",
+    "minimum_or_meter_charge": "22.99",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "8.55",
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "e2fc16fc5641f4fc",
+        "pdf_page": 1
+      }
+    ],
+    "change_from_preceding_documented_schedule_4000": "0.12",
+    "base_price_changed_4000": true,
+    "event_id": "E049",
+    "document_date": null,
+    "service_effective_date": "2021-02-25",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "e2fc16fc5641f4fc",
+        "pdf_page": 1,
+        "path": "sources/files/26900_tariff_371f018d7f2f.pdf",
+        "sha256": "e2fc16fc5641f4fcd15e79e550cca9efb1f6841237a055768096d02e36bd7599",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20McLean%20County%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Rates/07-01.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "26900",
+    "district": "North McLean County Water District",
+    "event_date": "2021-07-01",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "42.73",
+    "schedule_parameters": {
+      "minimum": "24.31",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "9.21"
+        ]
+      ]
+    },
+    "case": "2021-00225",
+    "approval_date": "2021-07-06",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "6284b4274d7b533c",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "92ba17fecb09b11d",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "2.64",
+    "base_price_changed_4000": true,
+    "event_id": "E050",
+    "document_date": "2021-07-06",
+    "service_effective_date": "2021-07-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "6284b4274d7b533c",
+        "pdf_page": 1,
+        "path": "sources/files/26900_tariff_a660171d737d.pdf",
+        "sha256": "6284b4274d7b533c2b5c3fbf989274889d16a28102f98d6e5416b0ad76152719",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20McLean%20County%20Water%20District/Cancelled%20Tariff%20Pages/2025/Monthly%20Rates/03-01.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "92ba17fecb09b11d",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00225_20210706_PSC_ORDER.pdf",
+        "sha256": "92ba17fecb09b11d864261a163a5fc0bdfabdca3cc80159722c2672b692a287c",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00225//20210706_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "27000",
+    "district": "North Mercer Water District",
+    "event_date": "2017-05-19",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "41.29",
+    "schedule_parameters": {
+      "minimum": "18.22",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          null,
+          "7.69"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "e30f495779c92020",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E051",
+    "document_date": null,
+    "service_effective_date": "2017-05-19",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "e30f495779c92020",
+        "pdf_page": 1,
+        "path": "sources/files/27000_tariff_ce69a309c4c2.pdf",
+        "sha256": "e30f495779c9202019c9ca1d49dfd7202b0f4e65610ccdb51aafec59543c9c46",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20Mercer%20Water%20District/Cancelled%20Tariff%20Pages/2021/Monthly%20Water%20Rates/08-19.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "27000",
+    "district": "North Mercer Water District",
+    "event_date": "2021-08-19",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "48.20",
+    "minimum_or_meter_charge": "20.00",
+    "included_gallons": 1000,
+    "marginal_rate_per_1000_to_4000": "9.40",
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "2150c37a9a2d0748",
+        "pdf_page": 1
+      }
+    ],
+    "change_from_preceding_documented_schedule_4000": "6.91",
+    "base_price_changed_4000": true,
+    "event_id": "E052",
+    "document_date": null,
+    "service_effective_date": "2021-08-19",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "2150c37a9a2d0748",
+        "pdf_page": 1,
+        "path": "sources/files/27000_tariff_47bd1549d531.pdf",
+        "sha256": "2150c37a9a2d07484c248dddb1beae92a89c15cbe24a1dd904970eedb4fe928a",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20Mercer%20Water%20District/Cancelled%20Tariff%20Pages/2023/Monthly%20Water%20Rates/09-08.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "27000",
+    "district": "North Mercer Water District",
+    "event_date": "2023-09-08",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "50.12",
+    "minimum_or_meter_charge": "20.48",
+    "included_gallons": 1000,
+    "marginal_rate_per_1000_to_4000": "9.88",
+    "case": "2023-00268",
+    "approval_date": "2023-09-15",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "f2ad437c3e60b97c",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "7e94e6dc75c91793",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "1.92",
+    "base_price_changed_4000": true,
+    "event_id": "E053",
+    "document_date": "2023-09-15",
+    "service_effective_date": "2023-09-08",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "f2ad437c3e60b97c",
+        "pdf_page": 1,
+        "path": "sources/files/27000_tariff_70a7384c1070.pdf",
+        "sha256": "f2ad437c3e60b97cf4cd4e44cf118095b8a091feff0d37b123101817fd048c77",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20Mercer%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/10-08.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "7e94e6dc75c91793",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00268_20230915_PSC_ORDER.pdf",
+        "sha256": "7e94e6dc75c91793387ff22cc1a86722607c8b5851dbc942e300e0d29a0a937f",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00268//20230915_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "27000",
+    "district": "North Mercer Water District",
+    "event_date": "2024-10-08",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "55.30",
+    "schedule_parameters": {
+      "minimum": "22.60",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          null,
+          "10.90"
+        ]
+      ]
+    },
+    "case": "2023-00185",
+    "approval_date": "2024-10-08",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Scanned rate sheet visually checked; September 2023 sheet was cancelled October 8 2024 and is NOT endpoint rate.",
+    "sources": [
+      {
+        "source_id": "9c19a2fa44fbd6c4",
+        "pdf_page": 3
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "9b5beba07da15693",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "5.18",
+    "base_price_changed_4000": true,
+    "event_id": "E054",
+    "document_date": "2024-10-08",
+    "service_effective_date": "2024-10-08",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "9c19a2fa44fbd6c4",
+        "pdf_page": 3,
+        "path": "sources/files/27000_tariff_6b59c07c9b72.pdf",
+        "sha256": "9c19a2fa44fbd6c4cd615c74a664a5c987fb71de44208988863ec15c48386af9",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/North%20Mercer%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "9b5beba07da15693",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00185_20241008_PSC_ORDER.pdf",
+        "sha256": "9b5beba07da15693d80654b097b7fed08edd4ceeb54f09d2388db29910f6c3de",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00185//20241008_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "28000",
+    "district": "Pendleton County Water District",
+    "event_date": "2013-04-15",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "42.07",
+    "schedule_parameters": {
+      "minimum": "22.55",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "9.76"
+        ],
+        [
+          10000,
+          "9.21"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "6fe55a332fe77d37",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E055",
+    "document_date": null,
+    "service_effective_date": "2013-04-15",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "6fe55a332fe77d37",
+        "pdf_page": 1,
+        "path": "sources/files/28000_tariff_b5693885fe9c.pdf",
+        "sha256": "6fe55a332fe77d37d16c3453f0a8410993d0ad7f79af82aee12a7fac8927da52",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Pendleton%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Water%20Rates/03-10.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "28000",
+    "district": "Pendleton County Water District",
+    "event_date": "2020-03-10",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "47.94",
+    "minimum_or_meter_charge": "25.70",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "11.12",
+    "case": "2019-00310",
+    "approval_date": "2020-03-10",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "Scanned rates and effective date visually verified.",
+    "sources": [
+      {
+        "source_id": "6071991377f92436",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "43da0a705c170f9a",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "5.87",
+    "base_price_changed_4000": true,
+    "event_id": "E056",
+    "document_date": "2020-03-10",
+    "service_effective_date": "2020-03-10",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "6071991377f92436",
+        "pdf_page": 1,
+        "path": "sources/files/28000_tariff_d399d7bc17ed.pdf",
+        "sha256": "6071991377f9243626d69584a5915d38316b579baa7d73fdb32d87f644655b5f",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Pendleton%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Water%20Rates/10-28.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "43da0a705c170f9a",
+        "pdf_page": 1,
+        "path": "sources/files/2019-00310_20200310_PSC_ORDER.pdf",
+        "sha256": "43da0a705c170f9a65decc01e8ccc92f4e687d5fc10b1b52d72a48b65c542fed",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00310/20200310_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "28000",
+    "district": "Pendleton County Water District",
+    "event_date": "2020-10-28",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "47.94",
+    "schedule_parameters": {
+      "minimum": "25.70",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "11.12"
+        ],
+        [
+          10000,
+          "10.50"
+        ]
+      ]
+    },
+    "case": "2020-00158",
+    "approval_date": "2020-10-28",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "c142344309f5528a",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "26dae7e8500ba9bd",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "wholesale special-contract amendment; no residential base change",
+    "change_from_preceding_documented_schedule_4000": "0.00",
+    "base_price_changed_4000": false,
+    "event_id": "E057",
+    "document_date": "2020-10-28",
+    "service_effective_date": "2020-10-28",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "c142344309f5528a",
+        "pdf_page": 1,
+        "path": "sources/files/28000_tariff_108d07391e46.pdf",
+        "sha256": "c142344309f5528a972a503b47ae29c2e7eae2ef515f6fe20d1f8b32b3a285ba",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Pendleton%20County%20Water%20District/Cancelled%20Tariff%20Pages/2025/Monthly%20Water%20Rates/06-13.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "26dae7e8500ba9bd",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00158_20201028_PSC_ORDER.pdf",
+        "sha256": "26dae7e8500ba9bd2ccf4dc73cef006e1b8916d86e61b3f8dd6aea9fad1ef7ce",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00158//20201028_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ],
+    "regulatory_category_v3": "rate review; inspect order for cost rationale",
+    "v4_classification_note": "Original order 2020-00158, October 28, 2020, PDF p1: City of Butler contract amendment. Corrects generic v3 rate-review label; no numeric/date change."
+  },
+  {
+    "district_id": "28300",
+    "district": "Powell's Valley Water District",
+    "event_date": "2017-10-26",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "43.34",
+    "schedule_parameters": {
+      "minimum": "23.22",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          2000,
+          "10.06"
+        ],
+        [
+          2000,
+          "9.07"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "a982a6941de0d28a",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E058",
+    "document_date": null,
+    "service_effective_date": "2017-10-26",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "a982a6941de0d28a",
+        "pdf_page": 1,
+        "path": "sources/files/28300_tariff_c7d399d5ea3c.pdf",
+        "sha256": "a982a6941de0d28ae76d297c5719d8026dca0d7a0ffa6b00b104861b2abd7c8d",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Powells%20Valley%20Water%20District/Cancelled%20Tariff%20Pages/2023/Monthly%20Rates/1-26.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "28300",
+    "district": "Powell's Valley Water District",
+    "event_date": "2023-01-26",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "46.43",
+    "minimum_or_meter_charge": "24.77",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "10.83",
+    "case": "2023-00053",
+    "approval_date": "2023-03-16",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "e68836e9fdb38ac0",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "12a97a638b58344e",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "3.09",
+    "base_price_changed_4000": true,
+    "event_id": "E059",
+    "document_date": "2023-03-16",
+    "service_effective_date": "2023-01-26",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "e68836e9fdb38ac0",
+        "pdf_page": 1,
+        "path": "sources/files/28300_tariff_b94ea5689722.pdf",
+        "sha256": "e68836e9fdb38ac045f1b39b1d6cacc6bc225bb418c943e20dd5642be0255a12",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Powells%20Valley%20Water%20District/Cancelled%20Tariff%20Pages/2024/Monthly%20Rates/12-09.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "12a97a638b58344e",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00053_20230316_PSC_ORDER.pdf",
+        "sha256": "12a97a638b58344e235d3060d68e193d1e74d2b18e70d8ebd3efbdfbd7e0548e",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00053//20230316_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "28300",
+    "district": "Powell's Valley Water District",
+    "event_date": "2024-12-09",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "46.43",
+    "schedule_parameters": {
+      "minimum": "24.77",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          2000,
+          "10.83"
+        ],
+        [
+          2000,
+          "9.84"
+        ]
+      ]
+    },
+    "case": "2023-00387",
+    "approval_date": "2024-12-09",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Final order December 9, 2024 in 2023-00387 authorizes 2.28; standardized approved bill, actual billing implementation not independently checked.",
+    "sources": [
+      {
+        "source_id": "d0d082dabb5b7806",
+        "pdf_page": 6
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "02125d2afd066d72",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "0.00",
+    "base_price_changed_4000": false,
+    "event_id": "E060",
+    "document_date": "2024-12-09",
+    "service_effective_date": "2024-12-09",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "d0d082dabb5b7806",
+        "pdf_page": 6,
+        "path": "sources/files/28300_tariff_ea03a02bec38.pdf",
+        "sha256": "d0d082dabb5b7806c552836eec45a6f845eb14fcc13c7bc126cc5deba34ff913",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Powells%20Valley%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "02125d2afd066d72",
+        "pdf_page": 1,
+        "path": "sources/files/2023-00387_20241209_PSC_ORDER.pdf",
+        "sha256": "02125d2afd066d72ca663b56794e6b48ac6832bb7fa49d4dcf7adab1d1d985a9",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00387//20241209_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "29200",
+    "district": "Sandy Hook Water District",
+    "event_date": "2017-03-21",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "50.95",
+    "schedule_parameters": {
+      "minimum": "28.57",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "11.19"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "58d373949adfb218",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E061",
+    "document_date": null,
+    "service_effective_date": "2017-03-21",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "58d373949adfb218",
+        "pdf_page": 1,
+        "path": "sources/files/29200_tariff_3afcfe484f1a.pdf",
+        "sha256": "58d373949adfb218dde1e409aa75eba5cbaa1638fa3e6af620d5e854f941c9eb",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Sandy%20Hook%20Water%20District/Cancelled%20Tariff%20Pages/2022/Water%20Rates%20and%20Charges/08-10.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "29200",
+    "district": "Sandy Hook Water District",
+    "event_date": "2022-08-10",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "66.24",
+    "schedule_parameters": {
+      "minimum": "37.14",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "14.55"
+        ]
+      ]
+    },
+    "case": "2022-00206",
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "5badf399c7b19e98",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "unclassified",
+    "change_from_preceding_documented_schedule_4000": "15.29",
+    "base_price_changed_4000": true,
+    "event_id": "E062",
+    "document_date": null,
+    "service_effective_date": "2022-08-10",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "5badf399c7b19e98",
+        "pdf_page": 1,
+        "path": "sources/files/29200_tariff_0e37a34cfb4f.pdf",
+        "sha256": "5badf399c7b19e983bd49275883af33ccac288bef3690938396d6ac17d19d0df",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Sandy%20Hook%20Water%20District/Cancelled%20Tariff%20Pages/2025/Water%20Rates%20and%20Charges/09-19.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "29800",
+    "district": "South Anderson Water District",
+    "event_date": "2018-09-01",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "39.99",
+    "schedule_parameters": {
+      "minimum": "20.17",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "9.91"
+        ],
+        [
+          5000,
+          "7.66"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "d0ecaf83ed0f4362",
+        "pdf_page": 5
+      }
+    ],
+    "event_id": "E063",
+    "document_date": null,
+    "service_effective_date": "2018-09-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "d0ecaf83ed0f4362",
+        "pdf_page": 5,
+        "path": "sources/files/29800_tariff_6e46e54a9606.pdf",
+        "sha256": "d0ecaf83ed0f4362bc81835cc1c0aa61b90d45e3008508e497d325b9e08ac47e",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/South%20Anderson%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "32500",
+    "district": "Western Fleming County Water District",
+    "event_date": "2014-10-27",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "41.23",
+    "schedule_parameters": {
+      "minimum": "15.01",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          6000,
+          "8.74"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "2cd9a57521ce966f",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E064",
+    "document_date": null,
+    "service_effective_date": "2014-10-27",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "2cd9a57521ce966f",
+        "pdf_page": 1,
+        "path": "sources/files/32500_tariff_f1487687c05a.pdf",
+        "sha256": "2cd9a57521ce966ffd95930ad1076b9ae711533576f284474d63666c854a655d",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Western%20Fleming%20County%20Water%20District/Cancelled%20Tariff%20Pages/2020/Monthly%20Water%20Rates/03-30.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "32500",
+    "district": "Western Fleming County Water District",
+    "event_date": "2020-03-30",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "49.47",
+    "minimum_or_meter_charge": "18.63",
+    "included_gallons": 1000,
+    "marginal_rate_per_1000_to_4000": "10.28",
+    "case": "2019-00456",
+    "approval_date": "2020-03-30",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "",
+    "sources": [
+      {
+        "source_id": "f5d5bca048e508bc",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "ba5fd63233057720",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "construction/financing-linked rates",
+    "change_from_preceding_documented_schedule_4000": "8.24",
+    "base_price_changed_4000": true,
+    "event_id": "E065",
+    "document_date": "2020-03-30",
+    "service_effective_date": "2020-03-30",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "f5d5bca048e508bc",
+        "pdf_page": 1,
+        "path": "sources/files/32500_tariff_978c55b1104e.pdf",
+        "sha256": "f5d5bca048e508bcc66a44cf6eb6ca05386d942419d5b154f5749f3b87e65e91",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Western%20Fleming%20County%20Water%20District/Cancelled%20Tariff%20Pages/2022/Monthly%20Water%20Rates/09-19.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "ba5fd63233057720",
+        "pdf_page": 1,
+        "path": "sources/files/2019-00456_20200330_PSC_ORDER.pdf",
+        "sha256": "ba5fd632330577209f00d56cdc64a4185526dfba3d011d5bf3b43ba2ddebfa6a",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00456//20200330_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "32500",
+    "district": "Western Fleming County Water District",
+    "event_date": "2022-09-19",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "50.66",
+    "schedule_parameters": {
+      "minimum": "19.07",
+      "included_gallons": 1000,
+      "blocks": [
+        [
+          6000,
+          "10.53"
+        ]
+      ]
+    },
+    "case": "2021-00406",
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "December 2024 billing report in 2022-00305 records surcharge 2273.22 for 1557 entries, exactly 1.46 each.",
+    "sources": [
+      {
+        "source_id": "d2f5cc97c66a436c",
+        "pdf_page": 5
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "5b950640665a06a6",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "b4e71658ae1ff13e",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "1.19",
+    "base_price_changed_4000": true,
+    "event_id": "E066",
+    "document_date": null,
+    "service_effective_date": "2022-09-19",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "d2f5cc97c66a436c",
+        "pdf_page": 5,
+        "path": "sources/files/32500_tariff_519816184979.pdf",
+        "sha256": "d2f5cc97c66a436c050b3769df6d6a373ac5001f0b5e2d5801972c31b6e26ef6",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Western%20Fleming%20County%20Water%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "5b950640665a06a6",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00406_20220919_PSC_ORDER.pdf",
+        "sha256": "5b950640665a06a69b347eed05f50a9200378e80561618cbe79e72c5a7e25bac",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00406//20220919_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      },
+      {
+        "source_id": "b4e71658ae1ff13e",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00406_20220105_PSC_ORDER.pdf",
+        "sha256": "b4e71658ae1ff13e504c0fb7a84a28f94984d5908cf09b8d5b4bb660cc314497",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00406//20220105_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "32500",
+    "district": "Western Fleming County Water District",
+    "event_date": "2022-10-05",
+    "date_basis": "order issuance date",
+    "record_type": "amending_order",
+    "case": "2021-00406",
+    "approval_date": "2022-10-05",
+    "first_billing_month": null,
+    "base_bill_4000": null,
+    "notes": "Corrected schedule; do not count the correction as a separate residential increase without comparing values.",
+    "sources": [
+      {
+        "source_id": "f96e3749f742382a",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "5b950640665a06a6",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "b4e71658ae1ff13e",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "event_id": "E067",
+    "document_date": "2022-10-05",
+    "service_effective_date": null,
+    "amends_event_id": "E066",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "source_id": "f96e3749f742382a",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00406_20221005_PSC_ORDER.pdf",
+        "sha256": "f96e3749f742382a85c817701baf1c5bfddd1bce7bdcd0dfcf32110eda79d306",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00406//20221005_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "5b950640665a06a6",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00406_20220919_PSC_ORDER.pdf",
+        "sha256": "5b950640665a06a69b347eed05f50a9200378e80561618cbe79e72c5a7e25bac",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00406//20220919_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      },
+      {
+        "source_id": "b4e71658ae1ff13e",
+        "pdf_page": 1,
+        "path": "sources/files/2021-00406_20220105_PSC_ORDER.pdf",
+        "sha256": "b4e71658ae1ff13e504c0fb7a84a28f94984d5908cf09b8d5b4bb660cc314497",
+        "url": "https://psc.ky.gov/pscscf/2021%20Cases/2021-00406//20220105_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "7000300",
+    "district": "Letcher County Water and Sewer District",
+    "event_date": "2017-11-21",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "baseline_anchor",
+    "base_bill_4000": "42.50",
+    "schedule_parameters": {
+      "minimum": "27.50",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          null,
+          "7.50"
+        ]
+      ]
+    },
+    "case": null,
+    "approval_date": null,
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "321ef5ad658edfe4",
+        "pdf_page": 1
+      }
+    ],
+    "event_id": "E068",
+    "document_date": null,
+    "service_effective_date": "2017-11-21",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "321ef5ad658edfe4",
+        "pdf_page": 1,
+        "path": "sources/files/7000300_tariff_7d330b9d3749.pdf",
+        "sha256": "321ef5ad658edfe45102ba734454d5018a4474c7096eb9a7ea112a9f1e417ded",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Letcher%20County%20Water%20and%20Sewer%20District/Cancelled%20Tariff%20Pages/2020/Rates%20and%20Charges/02-26.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "district_id": "7000300",
+    "district": "Letcher County Water and Sewer District",
+    "event_date": "2020-02-26",
+    "date_basis": "effective service date in source",
+    "record_type": "schedule",
+    "base_bill_4000": "43.66",
+    "minimum_or_meter_charge": "28.08",
+    "included_gallons": 2000,
+    "marginal_rate_per_1000_to_4000": "7.79",
+    "case": "2020-00037",
+    "approval_date": "2020-03-23",
+    "first_billing_month": null,
+    "evidence_status": "tariff-supported",
+    "notes": "PSC effective stamp February 26, 2020 conflicts with typed February 20; date is approved-stamp basis, not verified invoice start.",
+    "sources": [
+      {
+        "source_id": "3524c131de35fa60",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "a1b330a4ff3da304",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "purchased-water adjustment",
+    "change_from_preceding_documented_schedule_4000": "1.16",
+    "base_price_changed_4000": true,
+    "event_id": "E069",
+    "document_date": "2020-03-23",
+    "service_effective_date": "2020-02-26",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "3524c131de35fa60",
+        "pdf_page": 1,
+        "path": "sources/files/7000300_tariff_1d238e24e234.pdf",
+        "sha256": "3524c131de35fa605be11a23b1a2a1c0c1f04633fe3d0dd7de309478e0ea18eb",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Letcher%20County%20Water%20and%20Sewer%20District/Cancelled%20Tariff%20Pages/2023/Rates%20and%20Charges/11-17.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "a1b330a4ff3da304",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00037_20200323_PSC_ORDER.pdf",
+        "sha256": "a1b330a4ff3da3048510285468801f690fa221273a80908a0535c9bf204196d7",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00037//20200323_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "district_id": "7000300",
+    "district": "Letcher County Water and Sewer District",
+    "event_date": "2023-11-17",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "53.16",
+    "schedule_parameters": {
+      "minimum": "34.18",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          null,
+          "9.49"
+        ]
+      ]
+    },
+    "case": "2022-00431",
+    "approval_date": "2023-11-17",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Base schedule, effective/cancellation dates and compiled tariff reviewed. Pre-tax standard connection; not an actual household invoice.",
+    "sources": [
+      {
+        "source_id": "65481dafa4d5cddf",
+        "pdf_page": 6
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "fccf1ad6ff4d0598",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "rate review; inspect order for cost rationale",
+    "change_from_preceding_documented_schedule_4000": "9.50",
+    "base_price_changed_4000": true,
+    "event_id": "E070",
+    "document_date": "2023-11-17",
+    "service_effective_date": "2023-11-17",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "65481dafa4d5cddf",
+        "pdf_page": 6,
+        "path": "sources/files/7000300_tariff_3cfc52943296.pdf",
+        "sha256": "65481dafa4d5cddfa9c8d9354173c7deb41ab84c85ccb0abe096ebab15ebf36a",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Letcher%20County%20Water%20and%20Sewer%20District/Tariff.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "fccf1ad6ff4d0598",
+        "pdf_page": 1,
+        "path": "sources/files/2022-00431_20231117_PSC_ORDER.pdf",
+        "sha256": "fccf1ad6ff4d0598548288877a82464abc69906f97c54b586ed9cc6e24f26233",
+        "url": "https://psc.ky.gov/pscscf/2022%20Cases/2022-00431//20231117_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "event_id": "ASSESS_A01",
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "event_date": "2024-04-05",
+    "record_type": "amending_order",
+    "base_bill_4000": null,
+    "case": "2022-00366",
+    "notes": "Clarifies surcharge reporting and January 2024 billing start; 48-month language conflicts with January 2024\u2013December 2028 calendar span. Does not resolve February wholesale refund-period conflict.",
+    "assessment_source": "sources/files/mountain_april_order.pdf",
+    "pdf_pages": [
+      3,
+      4
+    ],
+    "status": "newly coded from previously archived source; separate assessment version",
+    "document_date": "2024-04-05",
+    "service_effective_date": null,
+    "amends_event_id": "E034",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "sources": [
+      {
+        "path": "sources/files/mountain_april_order.pdf",
+        "pdf_pages": [
+          3,
+          4
+        ],
+        "sha256": "58856c4fb7000e4ebacdb508a621aa6633a31f8695c383a06ed333e6511f8a3e",
+        "url": null
+      }
+    ],
+    "resolved_sources": [
+      {
+        "path": "sources/files/mountain_april_order.pdf",
+        "pdf_pages": [
+          3,
+          4
+        ],
+        "sha256": "58856c4fb7000e4ebacdb508a621aa6633a31f8695c383a06ed333e6511f8a3e",
+        "url": null,
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "event_id": "V2_MUHLENBERG_PWA",
+    "district_id": "26000",
+    "district": "Muhlenberg County Water District #3",
+    "event_date": "2024-08-01",
+    "order_date": "2024-08-06",
+    "record_type": "endpoint_schedule",
+    "case": "2024-00212",
+    "regulatory_category": "purchased-water adjustment",
+    "base_bill_4000": "53.43",
+    "change_from_preceding_documented_schedule_4000": 3.8,
+    "sources": [
+      {
+        "path": "sources/files/muhlenberg_pwa.pdf",
+        "pdf_pages": [
+          4,
+          5,
+          8
+        ],
+        "sha256": "b7494a61e5958984ea430752010bea93c34d861bdbfb6010a98ac7f76ce5308e",
+        "source_url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00212/20240806_PSC_ORDER.pdf"
+      }
+    ],
+    "notes": "Supersedes ARF authorization with same service-effective date; +3.80 is administrative price bridge, not evidence of a later observed invoice.",
+    "approval_date": "2024-08-06",
+    "first_billing_month": null,
+    "date_basis": "Controlling order and fifth revised sheet, service-effective August 1, 2024",
+    "evidence_status": "Original tariff and controlling order visually verified in v2",
+    "base_price_changed_4000": true,
+    "schedule_parameters": {
+      "minimum": "31.81",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          8000,
+          "10.81"
+        ],
+        [
+          10000,
+          "10.38"
+        ],
+        [
+          30000,
+          "9.82"
+        ],
+        [
+          null,
+          "9.41"
+        ]
+      ]
+    },
+    "document_date": "2024-08-06",
+    "service_effective_date": "2024-08-01",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "path": "sources/files/muhlenberg_pwa.pdf",
+        "pdf_pages": [
+          4,
+          5,
+          8
+        ],
+        "sha256": "b7494a61e5958984ea430752010bea93c34d861bdbfb6010a98ac7f76ce5308e",
+        "source_url": "https://psc.ky.gov/pscscf/2024%20Cases/2024-00212/20240806_PSC_ORDER.pdf",
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "event_id": "V3_KNOTT_BASE",
+    "district_id": "19400",
+    "district": "Knott County Water & Sewer District",
+    "record_type": "baseline_anchor",
+    "event_date": "2011-07-18",
+    "case": null,
+    "approval_date": null,
+    "base_bill_4000": "29.51",
+    "base_price_changed_4000": null,
+    "change_from_preceding_documented_schedule_4000": null,
+    "sources": [
+      {
+        "path": "sources/files/19400_tariff_51ad07ca6ab4.pdf",
+        "pdf_pages": [
+          1
+        ],
+        "sha256": "eebf77b426dc97bd8ee05d9dac49c67e098043de52a00f6e5111b2ff102986a8",
+        "url": null
+      }
+    ],
+    "case_order_sources": [],
+    "notes": "Ordinary 3/4-inch retail benchmark. Baseline handwritten March 8 versus PSC July 18, 2011; both predate endpoint. Phase-two body date Jan 31, 2021 distinguished from Jan 31, 2020 approval.",
+    "document_date": null,
+    "service_effective_date": "2011-07-18",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "path": "sources/files/19400_tariff_51ad07ca6ab4.pdf",
+        "pdf_pages": [
+          1
+        ],
+        "sha256": "eebf77b426dc97bd8ee05d9dac49c67e098043de52a00f6e5111b2ff102986a8",
+        "url": null,
+        "role": "sources"
+      }
+    ]
+  },
+  {
+    "event_id": "V3_KNOTT_PHASE1",
+    "district_id": "19400",
+    "district": "Knott County Water & Sewer District",
+    "record_type": "schedule",
+    "event_date": "2020-01-31",
+    "case": "2019-00268",
+    "approval_date": "2020-01-31",
+    "base_bill_4000": "43.24",
+    "base_price_changed_4000": true,
+    "change_from_preceding_documented_schedule_4000": "13.73",
+    "sources": [
+      {
+        "path": "sources/files/knott_order.pdf",
+        "pdf_pages": [
+          36,
+          41,
+          42
+        ],
+        "sha256": "d2e00aa517abb9fec14bc7c834b69436c493c9f2545e3aa96e555167a0680e8d",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00268/20200131_PSC_ORDER.pdf"
+      }
+    ],
+    "case_order_sources": [
+      {
+        "path": "sources/files/knott_order.pdf",
+        "pdf_pages": [
+          36,
+          41,
+          42
+        ],
+        "sha256": "d2e00aa517abb9fec14bc7c834b69436c493c9f2545e3aa96e555167a0680e8d",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00268/20200131_PSC_ORDER.pdf"
+      }
+    ],
+    "notes": "Ordinary 3/4-inch retail benchmark. Baseline handwritten March 8 versus PSC July 18, 2011; both predate endpoint. Phase-two body date Jan 31, 2021 distinguished from Jan 31, 2020 approval.",
+    "document_date": "2020-01-31",
+    "service_effective_date": "2020-01-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "path": "sources/files/knott_order.pdf",
+        "pdf_pages": [
+          36,
+          41,
+          42
+        ],
+        "sha256": "d2e00aa517abb9fec14bc7c834b69436c493c9f2545e3aa96e555167a0680e8d",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00268/20200131_PSC_ORDER.pdf",
+        "role": "sources"
+      },
+      {
+        "path": "sources/files/knott_order.pdf",
+        "pdf_pages": [
+          36,
+          41,
+          42
+        ],
+        "sha256": "d2e00aa517abb9fec14bc7c834b69436c493c9f2545e3aa96e555167a0680e8d",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00268/20200131_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "event_id": "V3_KNOTT_PHASE2",
+    "district_id": "19400",
+    "district": "Knott County Water & Sewer District",
+    "record_type": "endpoint_schedule",
+    "event_date": "2021-01-31",
+    "case": "2019-00268",
+    "approval_date": "2020-01-31",
+    "base_bill_4000": "49.80",
+    "base_price_changed_4000": true,
+    "change_from_preceding_documented_schedule_4000": "6.56",
+    "sources": [
+      {
+        "path": "sources/files/19400_tariff_4db405702395.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "sha256": "1c29b1679bd7b38a70282d11cc6c5639b9ef941eced9d60db48bf5f34ce31466",
+        "url": null
+      }
+    ],
+    "case_order_sources": [
+      {
+        "path": "sources/files/knott_order.pdf",
+        "pdf_pages": [
+          36,
+          41,
+          42
+        ],
+        "sha256": "d2e00aa517abb9fec14bc7c834b69436c493c9f2545e3aa96e555167a0680e8d",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00268/20200131_PSC_ORDER.pdf"
+      }
+    ],
+    "notes": "Ordinary 3/4-inch retail benchmark. Baseline handwritten March 8 versus PSC July 18, 2011; both predate endpoint. Phase-two body date Jan 31, 2021 distinguished from Jan 31, 2020 approval.",
+    "document_date": "2020-01-31",
+    "service_effective_date": "2021-01-31",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "path": "sources/files/19400_tariff_4db405702395.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "sha256": "1c29b1679bd7b38a70282d11cc6c5639b9ef941eced9d60db48bf5f34ce31466",
+        "url": null,
+        "role": "sources"
+      },
+      {
+        "path": "sources/files/knott_order.pdf",
+        "pdf_pages": [
+          36,
+          41,
+          42
+        ],
+        "sha256": "d2e00aa517abb9fec14bc7c834b69436c493c9f2545e3aa96e555167a0680e8d",
+        "url": "https://psc.ky.gov/pscscf/2019%20Cases/2019-00268/20200131_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ]
+  },
+  {
+    "event_id": "V3_ESTILL_AMEND",
+    "district_id": "21500",
+    "district": "Estill County Water District #1",
+    "record_type": "amending_order",
+    "event_date": "2024-11-01",
+    "case": "2023-00371",
+    "base_bill_4000": null,
+    "sources": [
+      {
+        "path": "sources/files/2023-00371_20241101_PSC_ORDER.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          3
+        ],
+        "sha256": "c248e43b40d5e70b04dc246a725991fa7f6be49f0cf8d8b218d53a70a52eb324",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00371/20241101_PSC_ORDER.pdf"
+      }
+    ],
+    "notes": "Removes bulk-loading-station rate; ordinary retail benchmark unchanged. Replaces Appendix B of August 30 order.",
+    "document_date": "2024-11-01",
+    "service_effective_date": null,
+    "amends_event_id": "E008",
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "amending/clarifying document",
+    "resolved_sources": [
+      {
+        "path": "sources/files/2023-00371_20241101_PSC_ORDER.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          3
+        ],
+        "sha256": "c248e43b40d5e70b04dc246a725991fa7f6be49f0cf8d8b218d53a70a52eb324",
+        "url": "https://psc.ky.gov/pscscf/2023%20Cases/2023-00371/20241101_PSC_ORDER.pdf",
+        "role": "sources"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "event_id": "E057",
+  "old_category": "rate review; inspect order for cost rationale",
+  "current_category": {
+    "district_id": "28000",
+    "district": "Pendleton County Water District",
+    "event_date": "2020-10-28",
+    "date_basis": "frozen endpoint schedule effective date; later amendments may relate back",
+    "record_type": "endpoint_schedule",
+    "base_bill_4000": "47.94",
+    "schedule_parameters": {
+      "minimum": "25.70",
+      "included_gallons": 2000,
+      "blocks": [
+        [
+          3000,
+          "11.12"
+        ],
+        [
+          10000,
+          "10.50"
+        ]
+      ]
+    },
+    "case": "2020-00158",
+    "approval_date": "2020-10-28",
+    "first_billing_month": null,
+    "evidence_status": "Stage 3 supported endpoint",
+    "notes": "Effective/cancellation dates and standard retail schedule reviewed; pre-tax water service only.",
+    "sources": [
+      {
+        "source_id": "c142344309f5528a",
+        "pdf_page": 1
+      }
+    ],
+    "case_order_sources": [
+      {
+        "source_id": "26dae7e8500ba9bd",
+        "pdf_page": 1
+      }
+    ],
+    "regulatory_category": "wholesale special-contract amendment; no residential base change",
+    "change_from_preceding_documented_schedule_4000": "0.00",
+    "base_price_changed_4000": false,
+    "event_id": "E057",
+    "document_date": "2020-10-28",
+    "service_effective_date": "2020-10-28",
+    "amends_event_id": null,
+    "superseded_by_event_id": null,
+    "billing_evidence_status": "Not established by this schedule/amendment row; consult separate surcharge evidence.",
+    "legal_status": "documented approved benchmark; complete operative period not certified",
+    "resolved_sources": [
+      {
+        "source_id": "c142344309f5528a",
+        "pdf_page": 1,
+        "path": "sources/files/28000_tariff_108d07391e46.pdf",
+        "sha256": "c142344309f5528a972a503b47ae29c2e7eae2ef515f6fe20d1f8b32b3a285ba",
+        "url": "https://psc.ky.gov/tariffs/Water/Districts,%20Associations,%20%26%20Privately%20Owned/Pendleton%20County%20Water%20District/Cancelled%20Tariff%20Pages/2025/Monthly%20Water%20Rates/06-13.pdf",
+        "role": "sources"
+      },
+      {
+        "source_id": "26dae7e8500ba9bd",
+        "pdf_page": 1,
+        "path": "sources/files/2020-00158_20201028_PSC_ORDER.pdf",
+        "sha256": "26dae7e8500ba9bd2ccf4dc73cef006e1b8916d86e61b3f8dd6aea9fad1ef7ce",
+        "url": "https://psc.ky.gov/pscscf/2020%20Cases/2020-00158//20201028_PSC_ORDER.pdf",
+        "role": "case_order_sources"
+      }
+    ],
+    "regulatory_category_v3": "rate review; inspect order for cost rationale",
+    "v4_classification_note": "Original order 2020-00158, October 28, 2020, PDF p1: City of Butler contract amendment. Corrects generic v3 rate-review label; no numeric/date change."
+  },
+  "provenance": "Current v4 correction preserved from Stage 1; no monetary or date fields changed. The original category is retained in regulatory_category_v3. Other consequential price and membership corrections remain in the tariff/comparability registers and docs/evidence.md."
+}

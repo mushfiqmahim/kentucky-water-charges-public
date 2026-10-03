@@ -1,0 +1,481 @@
+{
+  "S1": [
+    "Table S1. Complete disposition of the 34 selected districts",
+    [
+      "District and ID",
+      "Original stratum",
+      "Price pair",
+      "Account screen",
+      "Primary",
+      "Decision and evidence"
+    ],
+    [
+      [
+        "Barkley Lake (18500)",
+        "Nondecline",
+        "Supported",
+        "Fail",
+        "No",
+        "Residential/unmetered discontinuity, county-set change and count jumps unresolved. Source: District decision memo: Barkley; reports 2021/2023 p49 and county p12."
+      ],
+      [
+        "Bullock Pen (19200)",
+        "Nondecline",
+        "No pair",
+        "Pass",
+        "No",
+        "No accepted endpoint pair in retained reconstruction; extension-charge applicability unresolved. Geographic exceptions alone are not a categorical ban. Source: Original tariff feasibility/disposition; no completed non-extension pair."
+      ],
+      [
+        "Caldwell Co. (19201)",
+        "Decline",
+        "Supported",
+        "Fail",
+        "No",
+        "Residential/unmetered classification and 2023\u201324 opening gap unresolved. Source: District decision memo: Caldwell; 2022/2024 reports p49."
+      ],
+      [
+        "Corinth (19900)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Cumberland Falls Hwy. (20200)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "East Pendleton (21200)",
+        "Nondecline",
+        "Supported",
+        "Fail",
+        "No",
+        "Annual increase exceeds 10%; financial discussion of new customers does not reconcile net accounts. Source: District decision memo: East Pendleton; reports p49, financial statement p10."
+      ],
+      [
+        "Estill Co. #1 (21500)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Retain non-Cobhill benchmark paired with district-wide counts; area shares and sub-threshold swing unresolved. Source: Comparability memo: Estill; 2023-00371."
+      ],
+      [
+        "Garrison (21900)",
+        "Nondecline",
+        "Conditional",
+        "Fail",
+        "No",
+        "Non-extension benchmark possible, but $1.73 endpoint charge remains conditional; separate account opening gap fails screen. Source: Comparability memo: Garrison; current tariff pp5\u20136; 2023-00408."
+      ],
+      [
+        "Hardin Co. #1 (22500)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Henderson Co. (22700)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Henry Co. #2 (23000)",
+        "Decline",
+        "Supported",
+        "Fail",
+        "No",
+        "2023 account report unavailable. Corrected 2024 tariff retained in broader sample. Source: District decision memo: Henry; case 2023-00090 Appendix A."
+      ],
+      [
+        "Hyden-Leslie Co. (23300)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Knott Co. (19400)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Admitted in v3: southwest usage table cancelled in 2007; ordinary category traceable; unchanged account screen passes. Source: Comparability memo: Knott; tariff pp1/5/6; 2019-00268."
+      ],
+      [
+        "Laurel Co. #2 (24100)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Letcher Co. (7000300)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Lyon Co. (24500)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Martin Co. (25000)",
+        "Decline",
+        "Conditional",
+        "Pass",
+        "No",
+        "Debt-surcharge payoff/cap status unresolved at final endpoint; listed-charge scenario only. Source: V3 comparability memo; original tariff disposition, Martin charge evidence."
+      ],
+      [
+        "Mountain (25605)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Muhlenberg Co. #3 (26000)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Nebo (26400)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "North Hopkins (26600)",
+        "Decline",
+        "Supported",
+        "Fail",
+        "No",
+        "Temporary 1,376\u21921,598\u21921,365 residential sequence unexplained. Source: District decision memo: North Hopkins; 2022/2023 reports p50."
+      ],
+      [
+        "North McLean Co. (26900)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "North Mercer (27000)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Pendleton Co. (28000)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Powell's Valley (28300)",
+        "Decline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Retain ordinary benchmark: order/reports support three counties; first surcharge invoice remains unknown. Source: Comparability memo: Powell; 2023-00387 p5."
+      ],
+      [
+        "Rattlesnake Ridge (28600)",
+        "Decline",
+        "Conditional",
+        "Fail",
+        "No",
+        "Conditional surcharge applicability and start/prior-end discrepancy. Source: Original price disposition; selected-34 screen; Rattlesnake charge notes."
+      ],
+      [
+        "Sandy Hook (29200)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "South Anderson (29800)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ],
+      [
+        "Southern Madison (30600)",
+        "Nondecline",
+        "Conditional",
+        "Fail",
+        "No",
+        "Conditional fee/surcharge treatment and large account-category/continuity flags. Source: Original price disposition; selected-34 screen; Southern Madison charge notes."
+      ],
+      [
+        "Southern Water & Sewer (7000900)",
+        "Decline",
+        "No pair",
+        "Fail",
+        "No",
+        "Meter-installation transition and reported county-set change prevent a supported pair. Source: Original tariff disposition; selected-34 screen; Southern Water & Sewer."
+      ],
+      [
+        "Trimble Co. #1 (31200)",
+        "Decline",
+        "Supported",
+        "Fail",
+        "No",
+        "Residential fall coexists with commercial/total growth; exact classification crosswalk unavailable. Source: District decision memo: Trimble; 2021\u20132023 reports p49."
+      ],
+      [
+        "Union Co. (31400)",
+        "Nondecline",
+        "Conditional",
+        "Pass",
+        "No",
+        "Surcharge collection-cap status unresolved; endpoint scenario conditional. Source: V3 comparability memo; original tariff disposition, Union charge evidence."
+      ],
+      [
+        "Webster Co. (31800)",
+        "Decline",
+        "Supported",
+        "Fail",
+        "No",
+        "2019 closing versus 2020 opening discrepancy of 100 residential accounts. Source: District decision memo: Webster; 2019/2020 reports p50."
+      ],
+      [
+        "Western Fleming Co. (32500)",
+        "Nondecline",
+        "Supported",
+        "Pass",
+        "Yes",
+        "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified. Source: Endpoint and comparability registers; original account screen."
+      ]
+    ],
+    [
+      1.25,
+      0.85,
+      0.85,
+      0.65,
+      0.65,
+      2.25
+    ]
+  ],
+  "S2": [
+    "Table S2. Current neutral-band descriptions",
+    [
+      "Band %",
+      "Decline n",
+      "Neutral n",
+      "Growth n",
+      "Decline median %",
+      "Growth median %",
+      "Gap pp"
+    ],
+    [
+      [
+        "0",
+        "9",
+        "0",
+        "11",
+        "34.6862",
+        "24.2431",
+        "10.4431"
+      ],
+      [
+        "0.1",
+        "8",
+        "1",
+        "11",
+        "34.3084",
+        "24.2431",
+        "10.0654"
+      ],
+      [
+        "1",
+        "7",
+        "2",
+        "11",
+        "33.9307",
+        "24.2431",
+        "9.6877"
+      ]
+    ],
+    [
+      0.6,
+      0.7,
+      0.7,
+      0.7,
+      1.25,
+      1.25,
+      1.3
+    ]
+  ],
+  "S3": [
+    "Table S3. Current geographic diagnostics",
+    [
+      "Sample",
+      "N",
+      "Slope",
+      "95% HC3 interval"
+    ],
+    [
+      [
+        "All",
+        "20",
+        "-1.231092",
+        "[-2.793759, 0.331575]"
+      ],
+      [
+        "Omit Estill",
+        "19",
+        "-1.196907",
+        "[-2.791146, 0.397332]"
+      ],
+      [
+        "Omit Powell",
+        "19",
+        "-1.633053",
+        "[-3.139395, -0.126712]"
+      ],
+      [
+        "Omit both",
+        "18",
+        "-1.600812",
+        "[-3.139345, -0.062278]"
+      ]
+    ],
+    [
+      2.3,
+      0.5,
+      1.2,
+      2.5
+    ]
+  ],
+  "S4": [
+    "Table S4. Retained current specifications",
+    [
+      "Specification",
+      "N",
+      "Slope",
+      "95% HC3 interval"
+    ],
+    [
+      [
+        "Primary",
+        "20",
+        "-1.231092",
+        "[-2.793759, 0.331575]"
+      ],
+      [
+        "Unadjusted",
+        "20",
+        "-1.276098",
+        "[-2.622746, 0.070550]"
+      ],
+      [
+        "Broader supported",
+        "27",
+        "-0.515251",
+        "[-1.250824, 0.220321]"
+      ],
+      [
+        "Base only",
+        "20",
+        "-1.170207",
+        "[-2.782348, 0.441934]"
+      ],
+      [
+        "Add log initial charge",
+        "20",
+        "-0.976681",
+        "[-2.335263, 0.381900]"
+      ],
+      [
+        "Add raw initial charge",
+        "20",
+        "-0.920582",
+        "[-2.277673, 0.436509]"
+      ],
+      [
+        "Original design weights",
+        "20",
+        "-1.598464",
+        "[-3.206145, 0.009217]"
+      ],
+      [
+        "Dollar change",
+        "20",
+        "-0.570730",
+        "[-1.255517, 0.114057]"
+      ],
+      [
+        "Omit Hyden-Leslie",
+        "19",
+        "-0.921579",
+        "[-2.262956, 0.419798]"
+      ],
+      [
+        "2000 gallons",
+        "20",
+        "-1.013792",
+        "[-2.428136, 0.400552]"
+      ],
+      [
+        "6000 gallons",
+        "20",
+        "-1.339816",
+        "[-2.994083, 0.314451]"
+      ],
+      [
+        "Exclude mixed; ARC adjusted",
+        "19",
+        "-1.477797",
+        "[-3.410690, 0.455096]"
+      ],
+      [
+        "Martin conditional scenario",
+        "21",
+        "-0.727159",
+        "[-2.210215, 0.755898]"
+      ]
+    ],
+    [
+      2.5,
+      0.35,
+      1.25,
+      2.4
+    ]
+  ]
+}

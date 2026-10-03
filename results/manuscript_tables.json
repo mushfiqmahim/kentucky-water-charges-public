@@ -1,0 +1,739 @@
+{
+  "TABLE1": [
+    "Table 1. Sample construction",
+    [
+      "Stage",
+      "Districts",
+      "Initial decliners"
+    ],
+    [
+      [
+        "Original matched-name candidates",
+        "97",
+        "17"
+      ],
+      [
+        "Historical tariff draw: all initial decliners + 17 sampled nondecliners",
+        "34",
+        "17"
+      ],
+      [
+        "Reconstructed price pairs, including conditional cases",
+        "32",
+        "16"
+      ],
+      [
+        "Supported benchmark price pairs",
+        "27",
+        "14"
+      ],
+      [
+        "Primary: supported prices and account screen",
+        "20",
+        "9"
+      ]
+    ],
+    "Daviess merger exclusion is a separate frame correction (97 to 96); Daviess was not in the 34-district draw. Initial classifications preceded tariff review. The primary sample is selected, not a representative statewide panel."
+  ],
+  "TABLE2": [
+    "Table 2. Main-sample descriptive statistics",
+    [
+      "Variable",
+      "Mean",
+      "SD",
+      "Min",
+      "Median",
+      "Max"
+    ],
+    [
+      [
+        "Residential accounts, 2019",
+        "3,825.75",
+        "3,437.44",
+        "1,088.00",
+        "2,957.50",
+        "15,583.00"
+      ],
+      [
+        "Account change, ordinary percent",
+        "2.57",
+        "5.03",
+        "-5.22",
+        "2.14",
+        "12.20"
+      ],
+      [
+        "2019 monthly charge, nominal dollars",
+        "40.09",
+        "8.27",
+        "25.08",
+        "41.26",
+        "58.81"
+      ],
+      [
+        "2024 monthly charge, nominal dollars",
+        "50.81",
+        "8.83",
+        "32.58",
+        "52.64",
+        "66.70"
+      ],
+      [
+        "Nominal charge growth, percent",
+        "28.97",
+        "20.78",
+        "0.00",
+        "27.54",
+        "86.82"
+      ],
+      [
+        "Real charge growth, percent",
+        "5.01",
+        "16.92",
+        "-18.58",
+        "3.84",
+        "52.11"
+      ]
+    ],
+    "N = 20. Nominal charges are measured in each endpoint year\u2019s dollars; real growth uses December CPI-U. SD is the sample standard deviation."
+  ],
+  "TABLE3": [
+    "Table 3. Charge-growth regressions on the same 20 districts",
+    [
+      "Variable",
+      "Unadjusted full charge",
+      "Primary full charge",
+      "Base only, same sample"
+    ],
+    [
+      [
+        "Intercept",
+        "27.408\n(3.846)",
+        "21.033\n(25.969)",
+        "23.204\n(28.654)"
+      ],
+      [
+        "Account growth (log points)",
+        "-1.276\n(0.641)",
+        "-1.231\n(0.741)",
+        "-1.170\n(0.764)"
+      ],
+      [
+        "Log baseline accounts",
+        "\u2014",
+        "0.784\n(3.140)",
+        "0.404\n(3.435)"
+      ],
+      [
+        "N",
+        "20",
+        "20",
+        "20"
+      ],
+      [
+        "R-squared",
+        "0.167",
+        "0.168",
+        "0.141"
+      ],
+      [
+        "Account-growth 95% CI",
+        "[-2.623, 0.071]",
+        "[-2.794, 0.332]",
+        "[-2.782, 0.442]"
+      ]
+    ],
+    "Outcome: 100 \u00d7 log(B2024/B2019), at 4,000 gallons. Parentheses contain HC3 standard errors; intervals use t critical values. No significance stars. Full charge includes supported recurring extras."
+  ],
+  "TABLE4": [
+    "Table 4. Selected sensitivity estimates",
+    [
+      "Specification",
+      "N",
+      "Slope",
+      "95% HC3 interval"
+    ],
+    [
+      [
+        "Broader supported",
+        "27",
+        "-0.515",
+        "[-1.251, 0.220]"
+      ],
+      [
+        "Omit Hyden-Leslie",
+        "19",
+        "-0.922",
+        "[-2.263, 0.420]"
+      ],
+      [
+        "Add log initial charge",
+        "20",
+        "-0.977",
+        "[-2.335, 0.382]"
+      ],
+      [
+        "Original design weights",
+        "20",
+        "-1.598",
+        "[-3.206, 0.009]"
+      ],
+      [
+        "Exclude mixed; ARC adjusted",
+        "19",
+        "-1.478",
+        "[-3.411, 0.455]"
+      ],
+      [
+        "Martin conditional scenario",
+        "21",
+        "-0.727",
+        "[-2.210, 0.756]"
+      ],
+      [
+        "2000 gallons",
+        "20",
+        "-1.014",
+        "[-2.428, 0.401]"
+      ],
+      [
+        "6000 gallons",
+        "20",
+        "-1.340",
+        "[-2.994, 0.314]"
+      ]
+    ],
+    "Each row adjusts for baseline size. Except consumption sensitivities, outcomes use 4,000 gallons. Different samples do not identify the causal effect of exclusions."
+  ],
+  "TABLEA1": [
+    "Table A1. Main district observations",
+    [
+      "District (PSC ID)",
+      "Accounts 2019",
+      "Accounts 2024",
+      "Account change %",
+      "2019 charge",
+      "2024 charge",
+      "Charge growth %"
+    ],
+    [
+      [
+        "Corinth (19900)",
+        "1,131",
+        "1,236",
+        "9.28",
+        "$58.81",
+        "$66.70",
+        "13.42"
+      ],
+      [
+        "Cumberland Falls Hwy. (20200)",
+        "3,271",
+        "3,567",
+        "9.05",
+        "$47.40",
+        "$47.40",
+        "0.00"
+      ],
+      [
+        "Estill Co. #1 (21500)",
+        "3,527",
+        "3,648",
+        "3.43",
+        "$46.18",
+        "$53.59",
+        "16.05"
+      ],
+      [
+        "Hardin Co. #1 (22500)",
+        "9,504",
+        "9,437",
+        "-0.70",
+        "$27.16",
+        "$38.64",
+        "42.27"
+      ],
+      [
+        "Henderson Co. (22700)",
+        "6,150",
+        "6,039",
+        "-1.80",
+        "$35.14",
+        "$40.56",
+        "15.42"
+      ],
+      [
+        "Hyden-Leslie Co. (23300)",
+        "3,412",
+        "3,372",
+        "-1.17",
+        "$31.48",
+        "$58.81",
+        "86.82"
+      ],
+      [
+        "Knott Co. (19400)",
+        "3,055",
+        "3,170",
+        "3.76",
+        "$29.51",
+        "$49.80",
+        "68.76"
+      ],
+      [
+        "Laurel Co. #2 (24100)",
+        "5,717",
+        "5,927",
+        "3.67",
+        "$25.08",
+        "$32.58",
+        "29.90"
+      ],
+      [
+        "Letcher Co. (7000300)",
+        "2,953",
+        "2,920",
+        "-1.12",
+        "$42.50",
+        "$53.16",
+        "25.08"
+      ],
+      [
+        "Lyon Co. (24500)",
+        "2,587",
+        "2,779",
+        "7.42",
+        "$46.24",
+        "$57.45",
+        "24.24"
+      ],
+      [
+        "Mountain (25605)",
+        "15,583",
+        "15,227",
+        "-2.28",
+        "$39.71",
+        "$56.63",
+        "42.61"
+      ],
+      [
+        "Muhlenberg Co. #3 (26000)",
+        "2,019",
+        "1,972",
+        "-2.33",
+        "$39.67",
+        "$53.43",
+        "34.69"
+      ],
+      [
+        "Nebo (26400)",
+        "1,542",
+        "1,574",
+        "2.08",
+        "$42.29",
+        "$54.41",
+        "28.66"
+      ],
+      [
+        "North McLean Co. (26900)",
+        "1,275",
+        "1,274",
+        "-0.08",
+        "$31.68",
+        "$42.73",
+        "34.88"
+      ],
+      [
+        "North Mercer (27000)",
+        "4,711",
+        "4,465",
+        "-5.22",
+        "$41.29",
+        "$55.30",
+        "33.93"
+      ],
+      [
+        "Pendleton Co. (28000)",
+        "2,329",
+        "2,556",
+        "9.75",
+        "$42.07",
+        "$47.94",
+        "13.95"
+      ],
+      [
+        "Powell's Valley (28300)",
+        "2,215",
+        "2,144",
+        "-3.21",
+        "$43.34",
+        "$48.71",
+        "12.39"
+      ],
+      [
+        "Sandy Hook (29200)",
+        "1,088",
+        "1,112",
+        "2.21",
+        "$50.95",
+        "$66.24",
+        "30.01"
+      ],
+      [
+        "South Anderson (29800)",
+        "2,962",
+        "3,156",
+        "6.55",
+        "$39.99",
+        "$39.99",
+        "0.00"
+      ],
+      [
+        "Western Fleming Co. (32500)",
+        "1,484",
+        "1,665",
+        "12.20",
+        "$41.23",
+        "$52.12",
+        "26.41"
+      ]
+    ],
+    "Source: reconstructed prices and PSC residential-account reports. Charges are nominal monthly dollars at 4,000 gallons; growth columns are ordinary percentages."
+  ],
+  "TABLEB1": [
+    "Table B1. Components of each standardized approved charge",
+    [
+      "District (PSC ID)",
+      "2019 base",
+      "2019 extra",
+      "2024 base",
+      "2024 extra",
+      "Base change",
+      "Total change"
+    ],
+    [
+      [
+        "Corinth (19900)",
+        "58.81",
+        "0.00",
+        "66.70",
+        "0.00",
+        "7.89",
+        "7.89"
+      ],
+      [
+        "Cumberland Falls Hwy. (20200)",
+        "47.40",
+        "0.00",
+        "47.40",
+        "0.00",
+        "0.00",
+        "0.00"
+      ],
+      [
+        "Estill Co. #1 (21500)",
+        "42.64",
+        "3.54",
+        "50.05",
+        "3.54",
+        "7.41",
+        "7.41"
+      ],
+      [
+        "Hardin Co. #1 (22500)",
+        "27.16",
+        "0.00",
+        "38.64",
+        "0.00",
+        "11.48",
+        "11.48"
+      ],
+      [
+        "Henderson Co. (22700)",
+        "35.14",
+        "0.00",
+        "38.69",
+        "1.87",
+        "3.55",
+        "5.42"
+      ],
+      [
+        "Hyden-Leslie Co. (23300)",
+        "31.48",
+        "0.00",
+        "58.81",
+        "0.00",
+        "27.33",
+        "27.33"
+      ],
+      [
+        "Knott Co. (19400)",
+        "29.51",
+        "0.00",
+        "49.80",
+        "0.00",
+        "20.29",
+        "20.29"
+      ],
+      [
+        "Laurel Co. #2 (24100)",
+        "25.08",
+        "0.00",
+        "32.58",
+        "0.00",
+        "7.50",
+        "7.50"
+      ],
+      [
+        "Letcher Co. (7000300)",
+        "42.50",
+        "0.00",
+        "53.16",
+        "0.00",
+        "10.66",
+        "10.66"
+      ],
+      [
+        "Lyon Co. (24500)",
+        "46.24",
+        "0.00",
+        "57.45",
+        "0.00",
+        "11.21",
+        "11.21"
+      ],
+      [
+        "Mountain (25605)",
+        "39.71",
+        "0.00",
+        "54.91",
+        "1.72",
+        "15.20",
+        "16.92"
+      ],
+      [
+        "Muhlenberg Co. #3 (26000)",
+        "39.67",
+        "0.00",
+        "53.43",
+        "0.00",
+        "13.76",
+        "13.76"
+      ],
+      [
+        "Nebo (26400)",
+        "42.29",
+        "0.00",
+        "54.41",
+        "0.00",
+        "12.12",
+        "12.12"
+      ],
+      [
+        "North McLean Co. (26900)",
+        "31.68",
+        "0.00",
+        "42.73",
+        "0.00",
+        "11.05",
+        "11.05"
+      ],
+      [
+        "North Mercer (27000)",
+        "41.29",
+        "0.00",
+        "55.30",
+        "0.00",
+        "14.01",
+        "14.01"
+      ],
+      [
+        "Pendleton Co. (28000)",
+        "42.07",
+        "0.00",
+        "47.94",
+        "0.00",
+        "5.87",
+        "5.87"
+      ],
+      [
+        "Powell's Valley (28300)",
+        "43.34",
+        "0.00",
+        "46.43",
+        "2.28",
+        "3.09",
+        "5.37"
+      ],
+      [
+        "Sandy Hook (29200)",
+        "50.95",
+        "0.00",
+        "66.24",
+        "0.00",
+        "15.29",
+        "15.29"
+      ],
+      [
+        "South Anderson (29800)",
+        "39.99",
+        "0.00",
+        "39.99",
+        "0.00",
+        "0.00",
+        "0.00"
+      ],
+      [
+        "Western Fleming Co. (32500)",
+        "41.23",
+        "0.00",
+        "50.66",
+        "1.46",
+        "9.43",
+        "10.89"
+      ],
+      [
+        "Sum of benchmark charges",
+        "798.18",
+        "3.54",
+        "1005.32",
+        "10.87",
+        "207.14",
+        "214.47"
+      ]
+    ],
+    "Nominal monthly dollars at 4,000 gallons; sums represent one hypothetical connection per district, not revenues. Net extras rise $7.33. Zero endpoint extras allow temporary charges. Sources: tariff register and event ledger."
+  ],
+  "TABLEB2": [
+    "Table B2. Documentary interpretation and limits for all 20 districts",
+    [
+      "District (PSC ID)",
+      "Documented regulatory route",
+      "Supported interpretation",
+      "Material limit and evidence reference"
+    ],
+    [
+      [
+        "Corinth (19900)",
+        "Purchased-water adjustments; retail rate review",
+        "Wholesale-cost pass-through steps followed by a rate review.",
+        "2020 supplier delay changed the service date; full invoice history unavailable. Sources: E002\u2013E005; cases 2020-00083, 2021-00232, 2021-00425."
+      ],
+      [
+        "Cumberland Falls Hwy. (20200)",
+        "No later benchmark revision documented",
+        "Same ordinary base schedule supports both endpoints.",
+        "Unchanged endpoints do not establish absence of intervening events. Sources: E006; endpoint tariff register."
+      ],
+      [
+        "Estill Co. #1 (21500)",
+        "Retail rate review; recurring surcharge; bulk-rate amendment",
+        "Ordinary base revised; general $3.54 extra at both endpoints.",
+        "Non-Cobhill benchmark with whole-district counts; area shares and count swing unresolved. Sources: E007\u2013E008; V3_ESTILL_AMEND; case 2023-00371; surcharge S06."
+      ],
+      [
+        "Hardin Co. #1 (22500)",
+        "Construction/financing-linked approval; purchased-water adjustments",
+        "2022 case joins project financing with rate approval; subsequent PWA steps.",
+        "Do not interpret the financing-linked dollar step as an isolated investment effect. Sources: E010\u2013E013; cases 2022-00337, 2023-00315, 2024-00319."
+      ],
+      [
+        "Henderson Co. (22700)",
+        "Purchased-water adjustments; retail rate review; surcharge",
+        "PWA path includes decreases; final charge includes $1.87 extra.",
+        "Reported February 2024 first billing is not independently reconciled cash receipts. Sources: E015\u2013E019; cases 2022-00034, 2023-00041, 2023-00101; S02."
+      ],
+      [
+        "Hyden-Leslie Co. (23300)",
+        "Phased retail rate reviews; temporary surcharge; date amendment",
+        "Orders specify pro-forma expenses, debt and coverage/working capital.",
+        "Temporary $1.53 billed Dec 2020\u2013Nov 2024; earlier phase-two first invoice unresolved. Sources: E021\u2013E024; cases 2020-00141, 2024-00022, 2020-00340; S01."
+      ],
+      [
+        "Knott Co. (19400)",
+        "Phased retail rate review",
+        "2018 test-year adjustments and debt-service method support two approved phases.",
+        "Retail-increase table and summary amounts differ; no matched causal comparison. Sources: V3_KNOTT_BASE/PHASE1/PHASE2; case 2019-00268 pp35\u201338,41\u201343."
+      ],
+      [
+        "Laurel Co. #2 (24100)",
+        "Construction/financing-linked rate approval",
+        "2020 order joins system improvements and financing with rates.",
+        "The entire benchmark increase cannot be assigned causally to construction. Sources: E026; case 2020-00079, April 8, 2020 pp1\u20133."
+      ],
+      [
+        "Letcher Co. (7000300)",
+        "Purchased-water adjustment; retail rate review",
+        "Wholesale-cost adjustment and later retail review are documented.",
+        "2020 typed/stamped dates differ; complete invoices unavailable; Knott is a reported vendor. Sources: E069\u2013E070; cases 2020-00037, 2022-00431."
+      ],
+      [
+        "Lyon Co. (24500)",
+        "Purchased-water adjustment; retail rate review; later tariff revision",
+        "PWA and 2022 review identified; 2024 schedule supports endpoint.",
+        "Cause/proceeding for final 2024 step not classified in this ledger. Sources: E028\u2013E030; cases 2021-00195, 2021-00391; endpoint tariff."
+      ],
+      [
+        "Mountain (25605)",
+        "Purchased-water adjustments; retail review; corrections; surcharge",
+        "Final corrected base plus $1.72 extra; amendments revise prior authorization.",
+        "Refund installment and surcharge-duration wording conflict; actual historical billing incomplete. Sources: E032\u2013E036; ASSESS_A01; case 2022-00366; S03."
+      ],
+      [
+        "Muhlenberg Co. #3 (26000)",
+        "Retail rate review; superseding purchased-water adjustment; earlier step unclassified",
+        "August 2024 PWA supersedes same-effective-date retail approval.",
+        "Do not count both approvals as successive invoices; 2022 step not economically classified. Sources: E038\u2013E039; V2_MUHLENBERG_PWA; cases 2023-00400, 2024-00212."
+      ],
+      [
+        "Nebo (26400)",
+        "Construction/financing-linked approval; PWA; retail review",
+        "2024 order links loan-required rates to pump/SCADA/meter project; later adjustments.",
+        "January revision leaves base unchanged; component changes are not causal cost shares. Sources: E041\u2013E044; cases 2024-00062 p1, 2024-00120, 2024-00002."
+      ],
+      [
+        "North McLean Co. (26900)",
+        "Purchased-water adjustments; retail review; unclassified step",
+        "Multiple PWA steps and a retail review occur in the documented path.",
+        "February 2021 step lacks linked proceeding; one cancellation stamp conflicts with chronology. Sources: E046\u2013E050; cases 2020-00168, 2020-00320, 2020-00238, 2021-00225."
+      ],
+      [
+        "North Mercer (27000)",
+        "Unclassified tariff step; PWA; retail review",
+        "2023 PWA and 2024 retail review follow a 2021 tariff increase.",
+        "2021 step lacks linked proceeding; South Anderson appears among endpoint vendors. Sources: E052\u2013E054; cases 2023-00268, 2023-00185."
+      ],
+      [
+        "Pendleton Co. (28000)",
+        "Retail rate review; wholesale special-contract amendment",
+        "March 2020 retail revision; October contract revision leaves residential base unchanged.",
+        "Later connector label is unusual; no actual meter transition established. Sources: E056\u2013E057; cases 2019-00310, 2020-00158 p1."
+      ],
+      [
+        "Powell's Valley (28300)",
+        "Purchased-water adjustment; review with surcharge authorization",
+        "2023 PWA changes base; December 2024 adds $2.28 without changing base.",
+        "First surcharge invoice unknown; three-county service supported, precise boundaries unverified. Sources: E059\u2013E060; cases 2023-00053, 2023-00387; S05."
+      ],
+      [
+        "Sandy Hook (29200)",
+        "Tariff revision; proceeding not classified",
+        "2022 tariff identifies the larger approved ordinary retail charge.",
+        "Economic explanation not established from the reviewed ledger; do not infer one from increase. Sources: E062; case number 2022-00206 on tariff; endpoint register."
+      ],
+      [
+        "South Anderson (29800)",
+        "No later benchmark revision documented",
+        "Same ordinary base schedule supports both endpoints.",
+        "No complete billing history; unchanged benchmark does not imply unchanged finances. Sources: E063; endpoint tariff register."
+      ],
+      [
+        "Western Fleming Co. (32500)",
+        "Construction/financing-linked approval; retail review; correction; surcharge",
+        "2020 project/financing approval; later base revision and $1.46 extra.",
+        "November 2022 reported collection start does not establish first invoice date. Sources: E065\u2013E067; cases 2019-00456, 2021-00406, 2022-00305; S04."
+      ]
+    ],
+    "PWA = purchased-water adjustment. Event and surcharge IDs link to resolved original sources in the replication ledger. Dates and monetary changes describe authorizations or benchmark calculations unless billing evidence is expressly stated. All districts lack a complete independently reconciled customer-invoice history."
+  ]
+}

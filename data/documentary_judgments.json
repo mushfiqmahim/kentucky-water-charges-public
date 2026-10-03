@@ -1,0 +1,224 @@
+{
+  "scope": "Authored documentary judgments extracted verbatim from Stage 1 synthesis code. No new source adjudication.",
+  "reconstruction": {
+    "19900": [
+      "Purchased-water adjustments; retail rate review",
+      "Wholesale-cost pass-through steps followed by a rate review.",
+      "2020 supplier delay changed the service date; full invoice history unavailable.",
+      "E002–E005; cases 2020-00083, 2021-00232, 2021-00425"
+    ],
+    "20200": [
+      "No later benchmark revision documented",
+      "Same ordinary base schedule supports both endpoints.",
+      "Unchanged endpoints do not establish absence of intervening events.",
+      "E006; endpoint tariff register"
+    ],
+    "21500": [
+      "Retail rate review; recurring surcharge; bulk-rate amendment",
+      "Ordinary base revised; general $3.54 extra at both endpoints.",
+      "Non-Cobhill benchmark with whole-district counts; area shares and count swing unresolved.",
+      "E007–E008; V3_ESTILL_AMEND; case 2023-00371; surcharge S06"
+    ],
+    "22500": [
+      "Construction/financing-linked approval; purchased-water adjustments",
+      "2022 case joins project financing with rate approval; subsequent PWA steps.",
+      "Do not interpret the financing-linked dollar step as an isolated investment effect.",
+      "E010–E013; cases 2022-00337, 2023-00315, 2024-00319"
+    ],
+    "22700": [
+      "Purchased-water adjustments; retail rate review; surcharge",
+      "PWA path includes decreases; final charge includes $1.87 extra.",
+      "Reported February 2024 first billing is not independently reconciled cash receipts.",
+      "E015–E019; cases 2022-00034, 2023-00041, 2023-00101; S02"
+    ],
+    "23300": [
+      "Phased retail rate reviews; temporary surcharge; date amendment",
+      "Orders specify pro-forma expenses, debt and coverage/working capital.",
+      "Temporary $1.53 billed Dec 2020–Nov 2024; earlier phase-two first invoice unresolved.",
+      "E021–E024; cases 2020-00141, 2024-00022, 2020-00340; S01"
+    ],
+    "19400": [
+      "Phased retail rate review",
+      "2018 test-year adjustments and debt-service method support two approved phases.",
+      "Retail-increase table and summary amounts differ; no matched causal comparison.",
+      "V3_KNOTT_BASE/PHASE1/PHASE2; case 2019-00268 pp35–38,41–43"
+    ],
+    "24100": [
+      "Construction/financing-linked rate approval",
+      "2020 order joins system improvements and financing with rates.",
+      "The entire benchmark increase cannot be assigned causally to construction.",
+      "E026; case 2020-00079, April 8, 2020 pp1–3"
+    ],
+    "7000300": [
+      "Purchased-water adjustment; retail rate review",
+      "Wholesale-cost adjustment and later retail review are documented.",
+      "2020 typed/stamped dates differ; complete invoices unavailable; Knott is a reported vendor.",
+      "E069–E070; cases 2020-00037, 2022-00431"
+    ],
+    "24500": [
+      "Purchased-water adjustment; retail rate review; later tariff revision",
+      "PWA and 2022 review identified; 2024 schedule supports endpoint.",
+      "Cause/proceeding for final 2024 step not classified in this ledger.",
+      "E028–E030; cases 2021-00195, 2021-00391; endpoint tariff"
+    ],
+    "25605": [
+      "Purchased-water adjustments; retail review; corrections; surcharge",
+      "Final corrected base plus $1.72 extra; amendments revise prior authorization.",
+      "Refund installment and surcharge-duration wording conflict; actual historical billing incomplete.",
+      "E032–E036; ASSESS_A01; case 2022-00366; S03"
+    ],
+    "26000": [
+      "Retail rate review; superseding purchased-water adjustment; earlier step unclassified",
+      "August 2024 PWA supersedes same-effective-date retail approval.",
+      "Do not count both approvals as successive invoices; 2022 step not economically classified.",
+      "E038–E039; V2_MUHLENBERG_PWA; cases 2023-00400, 2024-00212"
+    ],
+    "26400": [
+      "Construction/financing-linked approval; PWA; retail review",
+      "2024 order links loan-required rates to pump/SCADA/meter project; later adjustments.",
+      "January revision leaves base unchanged; component changes are not causal cost shares.",
+      "E041–E044; cases 2024-00062 p1, 2024-00120, 2024-00002"
+    ],
+    "26900": [
+      "Purchased-water adjustments; retail review; unclassified step",
+      "Multiple PWA steps and a retail review occur in the documented path.",
+      "February 2021 step lacks linked proceeding; one cancellation stamp conflicts with chronology.",
+      "E046–E050; cases 2020-00168, 2020-00320, 2020-00238, 2021-00225"
+    ],
+    "27000": [
+      "Unclassified tariff step; PWA; retail review",
+      "2023 PWA and 2024 retail review follow a 2021 tariff increase.",
+      "2021 step lacks linked proceeding; South Anderson appears among endpoint vendors.",
+      "E052–E054; cases 2023-00268, 2023-00185"
+    ],
+    "28000": [
+      "Retail rate review; wholesale special-contract amendment",
+      "March 2020 retail revision; October contract revision leaves residential base unchanged.",
+      "Later connector label is unusual; no actual meter transition established.",
+      "E056–E057; cases 2019-00310, 2020-00158 p1"
+    ],
+    "28300": [
+      "Purchased-water adjustment; review with surcharge authorization",
+      "2023 PWA changes base; December 2024 adds $2.28 without changing base.",
+      "First surcharge invoice unknown; three-county service supported, precise boundaries unverified.",
+      "E059–E060; cases 2023-00053, 2023-00387; S05"
+    ],
+    "29200": [
+      "Tariff revision; proceeding not classified",
+      "2022 tariff identifies the larger approved ordinary retail charge.",
+      "Economic explanation not established from the reviewed ledger; do not infer one from increase.",
+      "E062; case number 2022-00206 on tariff; endpoint register"
+    ],
+    "29800": [
+      "No later benchmark revision documented",
+      "Same ordinary base schedule supports both endpoints.",
+      "No complete billing history; unchanged benchmark does not imply unchanged finances.",
+      "E063; endpoint tariff register"
+    ],
+    "32500": [
+      "Construction/financing-linked approval; retail review; correction; surcharge",
+      "2020 project/financing approval; later base revision and $1.46 extra.",
+      "November 2022 reported collection start does not establish first invoice date.",
+      "E065–E067; cases 2019-00456, 2021-00406, 2022-00305; S04"
+    ]
+  },
+  "excluded": {
+    "18500": [
+      "Residential/unmetered discontinuity, county-set change and count jumps unresolved.",
+      "District decision memo: Barkley; reports 2021/2023 p49 and county p12"
+    ],
+    "19200": [
+      "No accepted endpoint pair in retained reconstruction; extension-charge applicability unresolved. Geographic exceptions alone are not a categorical ban.",
+      "Original tariff feasibility/disposition; no completed non-extension pair"
+    ],
+    "19201": [
+      "Residential/unmetered classification and 2023–24 opening gap unresolved.",
+      "District decision memo: Caldwell; 2022/2024 reports p49"
+    ],
+    "21200": [
+      "Annual increase exceeds 10%; financial discussion of new customers does not reconcile net accounts.",
+      "District decision memo: East Pendleton; reports p49, financial statement p10"
+    ],
+    "21900": [
+      "Non-extension benchmark possible, but $1.73 endpoint charge remains conditional; separate account opening gap fails screen.",
+      "Comparability memo: Garrison; current tariff pp5–6; 2023-00408"
+    ],
+    "23000": [
+      "2023 account report unavailable. Corrected 2024 tariff retained in broader sample.",
+      "District decision memo: Henry; case 2023-00090 Appendix A"
+    ],
+    "25000": [
+      "Debt-surcharge payoff/cap status unresolved at final endpoint; listed-charge scenario only.",
+      "V3 comparability memo; original tariff disposition, Martin charge evidence"
+    ],
+    "26600": [
+      "Temporary 1,376→1,598→1,365 residential sequence unexplained.",
+      "District decision memo: North Hopkins; 2022/2023 reports p50"
+    ],
+    "28600": [
+      "Conditional surcharge applicability and start/prior-end discrepancy.",
+      "Original price disposition; selected-34 screen; Rattlesnake charge notes"
+    ],
+    "30600": [
+      "Conditional fee/surcharge treatment and large account-category/continuity flags.",
+      "Original price disposition; selected-34 screen; Southern Madison charge notes"
+    ],
+    "31200": [
+      "Residential fall coexists with commercial/total growth; exact classification crosswalk unavailable.",
+      "District decision memo: Trimble; 2021–2023 reports p49"
+    ],
+    "31400": [
+      "Surcharge collection-cap status unresolved; endpoint scenario conditional.",
+      "V3 comparability memo; original tariff disposition, Union charge evidence"
+    ],
+    "31800": [
+      "2019 closing versus 2020 opening discrepancy of 100 residential accounts.",
+      "District decision memo: Webster; 2019/2020 reports p50"
+    ],
+    "7000900": [
+      "Meter-installation transition and reported county-set change prevent a supported pair.",
+      "Original tariff disposition; selected-34 screen; Southern Water & Sewer"
+    ]
+  },
+  "included_overrides": {
+    "21500": [
+      "Retain non-Cobhill benchmark paired with district-wide counts; area shares and sub-threshold swing unresolved.",
+      "Comparability memo: Estill; 2023-00371"
+    ],
+    "19400": [
+      "Admitted in v3: southwest usage table cancelled in 2007; ordinary category traceable; unchanged account screen passes.",
+      "Comparability memo: Knott; tariff pp1/5/6; 2019-00268"
+    ],
+    "28300": [
+      "Retain ordinary benchmark: order/reports support three counties; first surcharge invoice remains unknown.",
+      "Comparability memo: Powell; 2023-00387 p5"
+    ]
+  },
+  "default_disposition": [
+    "Supported benchmark; passes stated mechanical screen. Physical-boundary stability not certified.",
+    "Endpoint and comparability registers; original account screen"
+  ],
+  "temporary_extra": {
+    "19900": "No such spell established in current ledger",
+    "20200": "No such spell established in current ledger",
+    "21500": "No such spell established in current ledger",
+    "22500": "No such spell established in current ledger",
+    "22700": "No such spell established in current ledger",
+    "23300": "1.53 monthly; Dec 2020–Nov 2024",
+    "19400": "No such spell established in current ledger",
+    "24100": "No such spell established in current ledger",
+    "7000300": "No such spell established in current ledger",
+    "24500": "No such spell established in current ledger",
+    "25605": "No such spell established in current ledger",
+    "26000": "No such spell established in current ledger",
+    "26400": "No such spell established in current ledger",
+    "26900": "No such spell established in current ledger",
+    "27000": "No such spell established in current ledger",
+    "28000": "No such spell established in current ledger",
+    "28300": "No such spell established in current ledger",
+    "29200": "No such spell established in current ledger",
+    "29800": "No such spell established in current ledger",
+    "32500": "No such spell established in current ledger"
+  },
+  "component_scope": "Base minimum/meter and usage prices; supported recurring extras separately; pre-tax 4,000-gallon monthly benchmark"
+}

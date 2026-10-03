@@ -1,0 +1,20 @@
+{
+  "primary": 20,
+  "selected": 34,
+  "reconstructed": 32,
+  "supported": 27,
+  "conditional_including_legacy_regional": 5,
+  "not_reconstructed": 2,
+  "retention_pct": 58.8235294117647,
+  "retained_declining": 9,
+  "selected_declining": 17,
+  "retained_nondeclining": 11,
+  "selected_nondeclining": 17,
+  "base_increase_districts": 18,
+  "zero_endpoint_change_districts": 2,
+  "positive_net_extra_districts": 4,
+  "base_total": 207.14,
+  "extra_total": 7.33,
+  "total_change": 214.47,
+  "documentary_classification_change": "E057 retail-review label corrected to wholesale special-contract amendment; numerical fields unchanged"
+}

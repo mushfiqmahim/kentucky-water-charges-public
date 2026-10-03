@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the working paper and identify the edition used."
+title: "Customer Base Change and Approved Water Charges in Kentucky 2019 to 2024"
+type: dataset
+authors:
+  - family-names: "Mahim"
+    given-names: "MD. Mushfiquzzaman"
+    affiliation: "Berea College"
+version: "v4-revised-2026-10-02"
+preferred-citation:
+  type: unpublished
+  title: "Customer Base Change and Approved Water Charges in Kentucky 2019 to 2024"
+  authors:
+    - family-names: "Mahim"
+      given-names: "MD. Mushfiquzzaman"
+      affiliation: "Berea College"
+  year: 2026
+  notes: "Working paper, Berea College. Manuscript v4, revised October 2, 2026."
+repository-code: "https://github.com/mushfiqmahim/kentucky-water-charges-public"
+url: "https://github.com/mushfiqmahim/kentucky-water-charges-public"

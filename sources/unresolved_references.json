@@ -1,0 +1,45 @@
+[
+  {
+    "reference": "Henry County #2 2023 annual report",
+    "original_path": "research/KEA_Manuscript_v4_Package/frozen_v2/source_validation/23000_2023.pdf",
+    "expected_identity": "Available archived payload SHA-256 24c3abb39b663cef79ab002057646910dd1b47e07b887b96f3b9c7f4b9a01ce9 is an error response, not a valid report.",
+    "affected_use": "2023 account continuity remains unavailable; excluded district",
+    "status": "invalid source payload intentionally not presented as a report",
+    "metadata": {
+      "name": "23000_2023",
+      "url": "https://psc.ky.gov/UFR_PDF/%5CWater%5C2023%5C23000_Henry_County_Water_District__2.pdf",
+      "status": "downloaded",
+      "sha256": "24c3abb39b663cef79ab002057646910dd1b47e07b887b96f3b9c7f4b9a01ce9",
+      "pages": 1,
+      "validation_status": "Error-page PDF, not an annual report; no account evidence extracted"
+    }
+  },
+  {
+    "reference": "Bash et al. (2020), Pennsylvania report full text",
+    "original_path": null,
+    "expected_identity": "No verified full-text object is recorded; institutional abstract only.",
+    "affected_use": "Claims about predecessor methods and exhaustive novelty",
+    "status": "Full report remains unavailable after targeted 2026-10-02 publisher and repository/handle checks; institutional abstract and search-index excerpts do not establish complete full-text review."
+  },
+  {
+    "reference": "Mahmood and Lane (2026); Ormsbee et al. (2026) full text",
+    "original_path": null,
+    "expected_identity": "No verified full-text object selected; abstract/institutional coverage as qualified in paper.",
+    "affected_use": "Literature scope",
+    "status": "full-text review not established"
+  },
+  {
+    "reference": "Mountain surcharge cap and cessation basis",
+    "original_path": "sources/files/mountain_2026_order.pdf",
+    "expected_identity": "SHA-256 dc5c7f5e1461ea3ba8fcd123d5dd86bb7620e0ed22f59ab07abfd512ed73ec63",
+    "affected_use": "Cessation conditions and later billing history; no evidence changing December2024 $1.72 component or $56.63 total",
+    "status": "Unresolved internal source conflict; p38 $1,365,608 assessed/48months versus AppendixB p49 $1,368,516 collected/four years fromJanuary2024. Original cap coding retained; no corrected cap or cessation month inferred. Targeted original-page review2026-10-02."
+  },
+  {
+    "reference": "Archived 2023 annual-report index HTML",
+    "original_path": "sources/files/psc_annual_index_2023.html",
+    "expected_identity": "SHA-256 90df485c01a8797c9209c8d2d8e510bd853eb3f7bde0af4d9a2b9d647004a051; Git blob 5ac7d880fb895d93d6346ffbc4d1f8b2532dc985",
+    "affected_use": "Archived institutional context; source-file completeness only, no numerical original-file dependency",
+    "status": "Original URL absent from recorded metadata. Exact saved bytes held privately pending provenance/distribution review. PSC annual-report landing page https://psc.ky.gov/WebNet/ListLibrary/ANN is a discovery route, not a verified original URL."
+  }
+]

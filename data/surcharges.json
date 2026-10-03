@@ -1,0 +1,196 @@
+[
+  {
+    "district_id": "23300",
+    "district": "Hyden-Leslie County Water District",
+    "charge_type": "water-loss surcharge",
+    "monthly_charge": "1.53",
+    "approval_date": "2020-11-06",
+    "case": "2020-00141",
+    "collection_cap": "263124",
+    "maximum_months": 48,
+    "verified_first_billing_month": "2020-12",
+    "verified_last_billing_month": "2024-11",
+    "notes": "2025 order corroborates historical collections and cessation; not information available in 2020. December 2024 bills omit surcharge. Illustrative uninterrupted 48-month account total is $73.44; not observed household expenditure.",
+    "sources": [
+      {
+        "source_id": "37795662ad63a626",
+        "pdf_page": 1
+      },
+      {
+        "source_id": "37795662ad63a626",
+        "pdf_page": 2
+      }
+    ],
+    "assessment_reported_first_billing_month": null,
+    "assessment_reported_collection_start_month": null,
+    "record_id": "S01",
+    "classification": "recurring-charge evidence record; overlaps proceedings and schedules"
+  },
+  {
+    "district_id": "22700",
+    "district": "Henderson County Water District",
+    "charge_type": "water-loss surcharge",
+    "monthly_charge": "1.87",
+    "approval_date": "2023-12-13",
+    "case": "2023-00101",
+    "collection_cap": "584220",
+    "maximum_months": 48,
+    "verified_first_billing_month": null,
+    "verified_last_billing_month": null,
+    "notes": "December 2024 billing evidence retained from Stage 3. Base tariff effective January 1, 2024 does not independently verify first surcharge invoice month.",
+    "sources": [
+      {
+        "source_id": "5977eb0c8428af2c",
+        "pdf_page": 25
+      },
+      {
+        "source_id": "e9fcc0a2592cefc3",
+        "pdf_page": 1
+      }
+    ],
+    "assessment_reported_first_billing_month": "2024-02",
+    "assessment_reported_collection_start_month": null,
+    "assessment_update_evidence": {
+      "district_id": "22700",
+      "district": "Henderson County Water District",
+      "reported_first_billing_month": "2024-02",
+      "reported_collection_start_month": null,
+      "evidence_status": "utility report with explicit first-month note; cash collections caveated",
+      "source_file": "sources/files/henderson_feb2024.pdf",
+      "pdf_page": 1,
+      "caveat": "Collections initially set equal to billings because account setup was incorrect. January blank is not an observed zero.",
+      "url": "https://psc.ky.gov/pscecf/2023-00333/mjulian%40hendersoncounty.ky.gov/03152024104706/Feb_2024_PSC_Water_Loss_Surcharge_Reporting_Form.pdf",
+      "sha256": "324343d510c5d689a49515f92d591c1c9cbf0bbeb2673e900774903387ee13bb",
+      "retrieved_utc": "2026-09-21T14:25:11.358609+00:00"
+    },
+    "record_id": "S02",
+    "classification": "recurring-charge evidence record; overlaps proceedings and schedules"
+  },
+  {
+    "district_id": "25605",
+    "district": "Mountain Water District",
+    "charge_type": "water-loss surcharge",
+    "monthly_charge": "1.72",
+    "approval_date": "2023-10-31",
+    "case": "2022-00366",
+    "collection_cap": "1365608",
+    "maximum_months": 48,
+    "verified_first_billing_month": "2024-01",
+    "verified_last_billing_month": null,
+    "notes": "November 29 order corrects initial cap $341,402 to $1,365,608. January 26, 2025 letter states billing began mid-January 2024 and reports December 2024. Start is billing-month precision, not January 1.",
+    "sources": [
+      {
+        "source_id": "02cd7361bedd5f35",
+        "pdf_page": 3
+      },
+      {
+        "source_id": "927b337a4134b6b4",
+        "pdf_page": 1
+      }
+    ],
+    "assessment_reported_first_billing_month": null,
+    "assessment_reported_collection_start_month": null,
+    "assessment_duration_conflict": {
+      "id": "C02",
+      "district": "Mountain",
+      "source": "sources/files/mountain_april_order.pdf",
+      "pages": "3-4",
+      "issue": "48-month term described as January 2024 to December 2028 (60 calendar months inclusive). March 11 motion repeats same inconsistency.",
+      "status": "unresolved authorized cessation date; do not infer December 2027 or December 2028",
+      "endpoint_effect": "none at December 2024"
+    },
+    "assessment_authorized_cessation_date": null,
+    "record_id": "S03",
+    "classification": "recurring-charge evidence record; overlaps proceedings and schedules"
+  },
+  {
+    "district_id": "32500",
+    "district": "Western Fleming County Water District",
+    "charge_type": "water-loss surcharge",
+    "monthly_charge": "1.46",
+    "approval_date": "2022-09-19",
+    "case": "2021-00406",
+    "collection_cap": "105120",
+    "maximum_months": 48,
+    "verified_first_billing_month": null,
+    "verified_last_billing_month": null,
+    "notes": "December 2024 gross surcharge billing of $2,273.22 across 1,557 entries equals $1.46 per entry. First billing month and final cessation not established.",
+    "sources": [
+      {
+        "source_id": "5b950640665a06a6",
+        "pdf_page": 20
+      },
+      {
+        "source_id": "7d8d813d7419e32f",
+        "pdf_page": 1
+      }
+    ],
+    "assessment_reported_first_billing_month": null,
+    "assessment_reported_collection_start_month": "2022-11",
+    "assessment_update_evidence": {
+      "district_id": "32500",
+      "district": "Western Fleming County Water District",
+      "reported_first_billing_month": null,
+      "reported_collection_start_month": "2022-11",
+      "evidence_status": "utility statement recorded by PSC staff",
+      "source_file": "sources/files/western_fleming_apr2023_memo.pdf",
+      "pdf_page": 2,
+      "caveat": "Collection start does not independently establish exact first invoice timing or reconcile receipts.",
+      "url": "https://psc.ky.gov/pscscf/2022%20cases/2022-00305//20230405_PSC%20Letter%20Filing%20IC%20Memo%20into%20the%20Record.pdf",
+      "sha256": "d72a0b0636ba5267df814d4b3409e54cccd2be768f61626a8bb8a1ba07433652",
+      "retrieved_utc": "2026-09-21T14:25:19.352962+00:00"
+    },
+    "record_id": "S04",
+    "classification": "recurring-charge evidence record; overlaps proceedings and schedules"
+  },
+  {
+    "district_id": "28300",
+    "district": "Powell's Valley Water District",
+    "charge_type": "water-loss surcharge",
+    "monthly_charge": "2.28",
+    "approval_date": "2024-12-09",
+    "case": "2023-00387",
+    "collection_cap": "267581",
+    "maximum_months": 48,
+    "verified_first_billing_month": null,
+    "verified_last_billing_month": null,
+    "notes": "Approved recurring charge at 2024 endpoint. First invoice date is unverified. Do not infer 12 months of payments from a year-end approved price.",
+    "sources": [
+      {
+        "source_id": "02125d2afd066d72",
+        "pdf_page": 35
+      },
+      {
+        "source_id": "02125d2afd066d72",
+        "pdf_page": 60
+      }
+    ],
+    "assessment_reported_first_billing_month": null,
+    "assessment_reported_collection_start_month": null,
+    "record_id": "S05",
+    "classification": "recurring-charge evidence record; overlaps proceedings and schedules"
+  },
+  {
+    "district_id": "21500",
+    "district": "Estill County Water District #1",
+    "charge_type": "water-loss surcharge",
+    "monthly_charge": "3.54",
+    "approval_date": null,
+    "case": "2019-00119",
+    "collection_cap": null,
+    "maximum_months": null,
+    "verified_first_billing_month": null,
+    "verified_last_billing_month": null,
+    "notes": "Carried as a supported recurring charge at both frozen endpoints. This stage has not established a complete billing spell, cap, refund resolution, or first collection month; source page should be interpreted with the Stage 3 review.",
+    "sources": [
+      {
+        "source_id": "53c6b0a76460bb04",
+        "pdf_page": 3
+      }
+    ],
+    "assessment_reported_first_billing_month": null,
+    "assessment_reported_collection_start_month": null,
+    "record_id": "S06",
+    "classification": "recurring-charge evidence record; overlaps proceedings and schedules"
+  }
+]

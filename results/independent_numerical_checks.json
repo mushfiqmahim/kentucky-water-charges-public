@@ -1,0 +1,22 @@
+[
+  {
+    "version": "v4",
+    "model": "Primary",
+    "slope": -1.2310921377721842,
+    "ci": [
+      -2.793759124823781,
+      0.3315748492794126
+    ],
+    "agreement_tolerance": 1e-09
+  },
+  {
+    "version": "v4",
+    "model": "Broader supported",
+    "slope": -0.5152513947141181,
+    "ci": [
+      -1.2508239766736255,
+      0.22032118724538952
+    ],
+    "agreement_tolerance": 1e-09
+  }
+]
